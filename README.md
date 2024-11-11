@@ -46,7 +46,7 @@ Caso não encontre o `requirements.txt`, faça a instalação utilizando
 pip install pandas folium opencage requests python-dotenv dash dash-bootstrap-components
 ```
 
-### 3. Execute o projeto (inicie o servidor)
+### 2. Execute o projeto (inicie o servidor)
 
 O Dash iniciará o servidor localmente em http://127.0.0.1:8050/. Você pode acessar a aplicação web diretamente no seu navegador. Execute o comando abaixo.
 
