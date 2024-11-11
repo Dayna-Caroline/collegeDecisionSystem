@@ -1,0 +1,707 @@
+CODIGO_DA_IES,NOME_DA_IES,SIGLA,CATEGORIA_DA_IES,COMUNITARIA,CONFESSIONAL,FILANTROPICA,ORGANIZACAO_ACADEMICA,CODIGO_MUNICIPIO_IBGE,MUNICIPIO,UF,SITUACAO_IES
+1292,Centro Universitário de Adamantina,FAI,Pública,N,N,N,Centro Universitário,3500105,Adamantina,SP,Ativa
+23459,Faculdade de Tecnologia de Adamantina,,Pública,N,N,N,Faculdade,3500105,Adamantina,SP,Ativa
+1834,FACULDADE DE AGUDOS,FAAG,Privada,N,N,N,Faculdade,3500709,Agudos,SP,Ativa
+1032,CENTRO UNIVERSITÁRIO SALESIANO DE SÃO PAULO,UNISAL,Privada,N,N,N,Centro Universitário,3501608,Americana,SP,Ativa
+1310,FACULDADE DE AMERICANA,FAM,Privada,N,N,N,Faculdade,3501608,Americana,SP,Ativa
+1182,INSTITUTO DE ENSINO SUPERIOR DE AMERICANA,IESA,Privada,N,N,N,Faculdade,3501608,Americana,SP,Ativa
+35,FACULDADE DE TECNOLOGIA DE AMERICANA,FATEC-AM,Pública,N,N,N,Faculdade,3501608,Americana,SP,Ativa
+1225,CENTRO UNIVERSITÁRIO AMPARENSE,UNIFIA,Privada,N,N,N,Centro Universitário,3501905,Amparo,SP,Ativa
+109,FACULDADES INTEGRADAS RUI BARBOSA,FIRB,Privada,N,N,N,Faculdade,3502101,Andradina,SP,Ativa
+1623,FACULDADE DE CIÊNCIAS AGRÁRIAS DE ANDRADINA,FCAA,Privada,N,N,N,Faculdade,3502101,Andradina,SP,Ativa
+1844,FACULDADES INTEGRADAS STELLA MARIS DE ANDRADINA,FISMA,Privada,N,N,N,Faculdade,3502101,Andradina,SP,Ativa
+2289,FACULDADE UNIÃO CULTURAL DO ESTADO DE SÃO PAULO,UCESP,Privada,N,N,N,Faculdade,3502804,Araçatuba,SP,Ativa
+23215,FACULDADE DO ESTADO DE SÃO PAULO,ESP,Privada,N,N,N,Faculdade,3502804,Araçatuba,SP,Ativa
+1418,Centro Universitário Toledo Wyden,Unitoledo Wyden,Privada,N,N,N,Centro Universitário,3502804,Araçatuba,SP,Ativa
+15697,Faculdade de Tecnologia de Araçatuba,FATEC Araçatuba,Pública,N,N,N,Faculdade,3502804,Araçatuba,SP,Ativa
+845,FACULDADE DA FUNDAÇÃO EDUCACIONAL ARAÇATUBA,FAC-FEA,Privada,N,N,N,Centro Universitário,3502804,Araçatuba,SP,Ativa
+22939,Faculdade de Tecnologia de Araraquara,FATEC ARQ,Pública,N,N,N,Faculdade,3503208,Araraquara,SP,Ativa
+124,UNIVERSIDADE DE ARARAQUARA,UNIARA,Privada,N,N,N,Universidade,3503208,Araraquara,SP,Ativa
+1569,FACULDADES INTEGRADAS DE ARARAQUARA,FIAR,Privada,N,N,N,Faculdade,3503208,Araraquara,SP,Ativa
+3436,Faculdade de Araraquara,FARA,Privada,N,N,N,Faculdade,3503208,Araraquara,SP,Ativa
+125,CENTRO UNIVERSITÁRIO DE ARARAS -,UNAR,Privada,N,N,N,Centro Universitário,3503307,Araras,SP,Ativa
+22096,FACULDADE SÃO LEOPOLDO MANDIC DE ARARAS,SLMANDIC-ARARAS,Privada,N,N,N,Faculdade,3503307,Araras,SP,Ativa
+23438,Faculdade de Tecnologia de Araras,,Pública,N,N,N,Faculdade,3503307,Araras,SP,Ativa
+1043,CENTRO UNIVERSITÁRIO DA FUNDAÇÃO HERMINIO OMETTO,FHO,Privada,N,N,N,Centro Universitário,3503307,Araras,SP,Ativa
+18288,Faculdade Latino-americana,FLAM,Privada,N,N,N,Faculdade,3503901,Arujá,SP,Ativa
+721,FACULDADE DE ASSIS,FASS,Privada,N,N,N,Faculdade,3504008,Assis,SP,Ativa
+19863,Faculdade de Tecnologia de Assis,FATEC Assis,Pública,N,N,N,Faculdade,3504008,Assis,SP,Ativa
+881,INSTITUTO MUNICIPAL DE ENSINO SUPERIOR DE ASSIS,IMESA,Pública,N,N,N,Faculdade,3504008,Assis,SP,Ativa
+22237,Faculdade de Ciências Jurídicas de Assis,,Privada,N,N,N,Faculdade,3504008,Assis,SP,Ativa
+5312,Centro Universitário UNIFAAT,UNIFAAT,Privada,N,N,N,Centro Universitário,3504107,Atibaia,SP,Ativa
+1322,FACULDADE EDUVALE DE AVARÉ,EDUVALE,Privada,N,N,N,Faculdade,3504503,Avaré,SP,Ativa
+23381,"FACULDADE DE GOVERNANÇA, ENGENHARIA E EDUCAÇÃO DE SÃO PAULO",FGE-SP,Privada,N,N,N,Faculdade,3504503,Avaré,SP,Ativa
+1317,Centro Universitário Sudoeste Paulista,UniFSP,Privada,N,N,N,Centro Universitário,3504503,Avaré,SP,Ativa
+1870,FACULDADES INTEGRADAS REGIONAIS DE AVARÉ,FIRA,Pública,N,N,N,Faculdade,3504503,Avaré,SP,Ativa
+23394,Faculdade de Engenharia e Administração Paulista,FEAP,Privada,N,N,N,Faculdade,3504503,Avaré,SP,Ativa
+16194,Faculdade Gran Tietê,FGT,Privada,N,N,N,Faculdade,3505302,Barra Bonita,SP,Ativa
+131,Faculdade de Tecnologia do Brasil,FAT Brasil,Privada,N,N,N,Faculdade,3505302,Barra Bonita,SP,Ativa
+1622,FACULDADE ITA EDUCACIONAL PAULISTA,null,Privada,N,N,N,Faculdade,3505302,Barra Bonita,SP,Ativa
+2575,FACULDADES INTEGRADAS SOARES DE OLIVEIRA,FISO,Privada,N,N,N,Faculdade,3505500,Barretos,SP,Ativa
+14892,FACULDADE DE CIÊNCIAS DA SAÚDE DE BARRETOS DR. PAULO PRATA,FACISB,Privada,N,N,N,Faculdade,3505500,Barretos,SP,Ativa
+2971,FACULDADE BARRETOS,FB,Privada,N,N,N,Faculdade,3505500,Barretos,SP,Ativa
+2922,INSTITUTO SUPERIOR DE EDUCAÇÃO DE BARRETOS,ISEB,Privada,N,N,N,Faculdade,3505500,Barretos,SP,Ativa
+22747,FACULDADE PROF. LUÍZ MÁRIO D'AVILA,FADAVILA,Privada,N,N,N,Faculdade,3505500,Barretos,SP,Ativa
+3641,CENTRO UNIVERSITÁRIO DA FUNDAÇÃO EDUCACIONAL DE BARRETOS,UNIFEB,Privada,S,N,N,Centro Universitário,3505500,Barretos,SP,Ativa
+15757,Faculdade de Tecnologia de Barueri,Fatec Barueri,Pública,N,N,N,Faculdade,3505708,Barueri,SP,Ativa
+1463,FACULDADE DE BARUERI,FCGB,Privada,N,N,N,Faculdade,3505708,Barueri,SP,Ativa
+135,Claretiano - Centro Universitário,CLARETIANOBT,Privada,S,N,N,Centro Universitário,3505906,Batatais,SP,Ativa
+22313,FACULDADE NOVE DE JULHO DE BAURU,NOVE-BAURU,Privada,N,N,N,Faculdade,3506003,Bauru,SP,Ativa
+1092,FACULDADES INTEGRADAS DE BAURU,FIB,Privada,N,N,N,Faculdade,3506003,Bauru,SP,Ativa
+997,Centro Universitário de Bauru,,Privada,N,N,N,Centro Universitário,3506003,Bauru,SP,Ativa
+137,CENTRO UNIVERSITÁRIO SAGRADO CORAÇÃO,UNISAGRADO,Privada,N,S,N,Centro Universitário,3506003,Bauru,SP,Ativa
+24366,FACULDADE MARECHAL RONDON DE BAURU,FMR-BAURU,Privada,N,N,N,Faculdade,3506003,Bauru,SP,Ativa
+1816,INSTITUTO DE ENSINO SUPERIOR DE BAURU,IESB,Privada,N,N,N,Faculdade,3506003,Bauru,SP,Ativa
+15689,Faculdade de Tecnologia de Bauru,FATEC,Pública,N,N,N,Faculdade,3506003,Bauru,SP,Ativa
+5451,FACULDADE ANHANGÜERA DE BAURU,null,Privada,N,N,N,Faculdade,3506003,Bauru,SP,Ativa
+19862,Faculdade de Tecnologia Jorge Caram Sabbag,FATEC Bebedouro,Pública,N,N,N,Faculdade,3506102,Bebedouro,SP,Ativa
+882,INSTITUTO MUNICIPAL DE ENSINO SUPERIOR DE BEBEDOURO VICTÓRIO CARDASSI,IMESB,Pública,N,N,N,Faculdade,3506102,Bebedouro,SP,Ativa
+2774,Centro Universitário UNIFAFIBE,FAFIBE,Privada,N,N,N,Centro Universitário,3506102,Bebedouro,SP,Ativa
+1432,FACULDADE BERTIOGA,FABE,Privada,N,N,N,Faculdade,3506359,Bertioga,SP,Ativa
+843,FACULDADE DE CIÊNCIAS E TECNOLOGIA DE BIRIGUI,FATEB,Pública,N,N,N,Faculdade,3506508,Birigui,SP,Ativa
+1933,FACULDADE BIRIGUI,FABI,Privada,N,N,N,Faculdade,3506508,Birigui,SP,Ativa
+1130,FACULDADE METODISTA DE CIÊNCIAS HUMANAS E EXATAS,METODISTA,Privada,N,N,N,Faculdade,3506508,Birigui,SP,Ativa
+1545,FACULDADE DE BOITUVA,FIB,Privada,N,N,N,Faculdade,3507001,Boituva,SP,Ativa
+4020,FACULDADE DE TECNOLOGIA DE BOTUCATU,FATEC BT,Pública,N,N,N,Faculdade,3507506,Botucatu,SP,Ativa
+2328,FACULDADE ITEANA DE BOTUCATU,FITB,Privada,N,N,N,Faculdade,3507506,Botucatu,SP,Ativa
+25207,FACULDADE NOVE DE JULHO DE BOTUCATU,NOVE-BOTUCATU,Privada,N,N,N,Faculdade,3507506,Botucatu,SP,Ativa
+17593,Faculdade de Botucatu,FDB,Privada,N,N,N,Faculdade,3507506,Botucatu,SP,Ativa
+17662,Faculdade Galileu,FG,Privada,N,N,N,Faculdade,3507506,Botucatu,SP,Ativa
+716,FACULDADES INTEGRADAS DE BOTUCATU,null,Privada,N,N,N,Faculdade,3507506,Botucatu,SP,Ativa
+495,FACULDADE DE CIÊNCIAS E LETRAS DE BRAGANÇA PAULISTA,FESB,Pública,N,N,N,Faculdade,3507605,Bragança Paulista,SP,Ativa
+5633,FACULDADE DE TECNOLOGIA DE BRAGANÇA PAULISTA,null,Pública,N,N,N,Faculdade,3507605,Bragança Paulista,SP,Ativa
+670,UNIVERSIDADE SÃO FRANCISCO,USF,Privada,S,S,N,Universidade,3507605,Bragança Paulista,SP,Ativa
+18667,FACULDADE SANTO ANTÔNIO,FSA,Privada,N,N,N,Faculdade,3508504,Caçapava,SP,Ativa
+13527,FACULDADE CANÇÃO NOVA,FCN,Privada,N,N,N,Faculdade,3508603,Cachoeira Paulista,SP,Ativa
+2879,FACULDADE DE CAIEIRAS,null,Privada,N,N,N,Faculdade,3509007,Caieiras,SP,Ativa
+19739,Faculdade de Tecnologia de Campinas,FATEC CAMPINAS,Pública,N,N,N,Faculdade,3509502,Campinas,SP,Ativa
+19586,FACULDADE UNITÀ,UNITÀ,Privada,N,N,N,Faculdade,3509502,Campinas,SP,Ativa
+3456,FACULDADE POLITÉCNICA DE CAMPINAS,POLICAMP,Privada,N,N,N,Faculdade,3509502,Campinas,SP,Ativa
+18696,FACULDADE DYNAMUS DE CAMPINAS,FADYC,Privada,N,N,N,Faculdade,3509502,Campinas,SP,Ativa
+1438,FACULDADES DE CAMPINAS,FACAMP,Privada,N,N,N,Faculdade,3509502,Campinas,SP,Ativa
+1386,FACULDADE ESAMC CAMPINAS,ESAMC,Privada,N,N,N,Faculdade,3509502,Campinas,SP,Ativa
+17690,FACULDADE DE TECNOLOGIA SENAI ROBERTO MANGE,,Privada,N,N,N,Faculdade,3509502,Campinas,SP,Ativa
+3692,FACULDADE DE TECNOLOGIA IPEP DE CAMPINAS,FATEC CAMPINAS,Privada,N,N,N,Faculdade,3509502,Campinas,SP,Ativa
+4179,FACULDADE NAZARENA DO BRASIL,FNB,Privada,N,N,N,Faculdade,3509502,Campinas,SP,Ativa
+25425,FACULDADE TELOS DE CAMPINAS,FATELOS,Privada,N,N,N,Faculdade,3509502,Campinas,SP,Ativa
+2279,Centro Universitário Metrocamp Wyden,UniMetrocamp Wyden,Privada,N,N,N,Centro Universitário,3509502,Campinas,SP,Ativa
+2368,FACULDADE SÃO LEOPOLDO MANDIC,null,Privada,N,N,N,Faculdade,3509502,Campinas,SP,Ativa
+19,PONTIFÍCIA UNIVERSIDADE CATÓLICA DE CAMPINAS,PUC-CAMPINAS,Privada,S,S,N,Universidade,3509502,Campinas,SP,Ativa
+3323,INSTITUTO DE EDUCAÇÃO E ENSINO SUPERIOR DE CAMPINAS,IESCAMP,Privada,N,N,N,Faculdade,3509502,Campinas,SP,Ativa
+4826,FACULDADE ANHANGÜERA DE CAMPINAS,null,Privada,N,N,N,Faculdade,3509502,Campinas,SP,Ativa
+24525,ILUM ESCOLA DE CIÊNCIA,null,Privada,N,N,N,Faculdade,3509502,Campinas,SP,Ativa
+54,UNIVERSIDADE ESTADUAL DE CAMPINAS,UNICAMP,Pública,N,N,N,Universidade,3509502,Campinas,SP,Ativa
+25576,Faculdade TERZIUS,TERZIUS,Privada,N,N,N,Faculdade,3509502,Campinas,SP,Ativa
+1273,Centro Universitário Campo Limpo Paulista,UNIFACCAMP,Privada,N,N,N,Centro Universitário,3509601,Campo Limpo Paulista,SP,Ativa
+15704,Faculdade de Tecnologia de Capão Bonito,FATEC-CB,Pública,N,N,N,Faculdade,3510203,Capão Bonito,SP,Ativa
+625,FACULDADE CENECISTA DE CAPIVARI,FACECAP,Privada,N,N,N,Faculdade,3510401,Capivari,SP,Ativa
+1187,CENTRO UNIVERSITÁRIO MÓDULO,MÓDULO,Privada,N,N,N,Centro Universitário,3510500,Caraguatatuba,SP,Ativa
+16395,Faculdade de Tecnologia de Carapicuiba,FATEC,Pública,N,N,N,Faculdade,3510609,Carapicuíba,SP,Ativa
+4169,Faculdade Estácio de Carapicuíba,ESTÁCIO CARAPICUÍBA,Privada,N,N,N,Faculdade,3510609,Carapicuíba,SP,Ativa
+1373,FACULDADE CASA BRANCA,FACAB,Privada,N,N,N,Faculdade,3510807,Casa Branca,SP,Ativa
+25474,Faculdade Microlins,FAMIC,Privada,N,N,N,Faculdade,3511102,Catanduva,SP,Ativa
+21900,Faculdade Anhanguera de Catanduva,FAC,Privada,N,N,N,Faculdade,3511102,Catanduva,SP,Ativa
+79,INSTITUTO MUNICIPAL DE ENSINO SUPERIOR DE CATANDUVA,IMES CATANDUVA,Pública,N,N,N,Faculdade,3511102,Catanduva,SP,Ativa
+16410,Faculdade de Tecnologia de Catanduva,FATEC Catanduva,Pública,N,N,N,Faculdade,3511102,Catanduva,SP,Ativa
+5215,CENTRO UNIVERSITÁRIO PADRE ALBINO,null,Privada,N,N,N,Centro Universitário,3511102,Catanduva,SP,Ativa
+22760,Faculdade Fleming Cerquilho,Fac Cerquilho,Privada,N,N,N,Faculdade,3511508,Cerquilho,SP,Ativa
+4889,FACULDADE CONECTADA FACONNECT,FACONNECT,Privada,N,N,N,Faculdade,3512308,Conchas,SP,Ativa
+3618,FACULDADE LUSÓFONA DE SÃO PAULO,FL-SP,Privada,N,N,N,Faculdade,3513009,Cotia,SP,Ativa
+1457,Faculdade Estácio de Cotia,Estacio Cotia,Privada,N,N,N,Faculdade,3513009,Cotia,SP,Ativa
+19578,Faculdade de Tecnologia de Cotia,FATEC COTIA,Pública,N,N,N,Faculdade,3513009,Cotia,SP,Ativa
+13481,FACULDADES INTEGRADAS RIO BRANCO GRANJA VIANNA,FRB-GV,Privada,N,N,N,Faculdade,3513009,Cotia,SP,Ativa
+21502,FACULDADES INTEGRADAS POTENCIAL,FIP,Privada,N,N,N,Faculdade,3513009,Cotia,SP,Ativa
+15680,Fatec Cruzeiro - Prof. Waldomiro May,,Pública,N,N,N,Faculdade,3513405,Cruzeiro,SP,Ativa
+608,"ESCOLA SUPERIOR DE CRUZEIRO ""PREFEITO HAMILTON VIEIRA MENDES""",ESEFIC,Pública,N,N,N,Faculdade,3513405,Cruzeiro,SP,Ativa
+4724,FACULDADE DE CIÊNCIAS HUMANAS DO ESTADO DE SÃO PAULO,FACIC,Privada,N,N,N,Faculdade,3513405,Cruzeiro,SP,Ativa
+18099,Faculdade de Tecnologia de Diadema Luigi Papaiz,FATEC DIADEMA,Pública,N,N,N,Faculdade,3513801,Diadema,SP,Ativa
+2257,FACULDADE DIADEMA,FAD,Privada,N,N,N,Faculdade,3513801,Diadema,SP,Ativa
+1420,FACULDADES DE DRACENA,null,Privada,N,N,N,Faculdade,3514403,Dracena,SP,Ativa
+17839,FACULDADE DE DRACENA,null,Privada,N,N,N,Faculdade,3514403,Dracena,SP,Ativa
+922,FACULDADE REGES DE DRACENA,null,Privada,N,N,N,Faculdade,3514403,Dracena,SP,Ativa
+23335,Faculdade Embu das Artes,FAEM,Privada,N,N,N,Faculdade,3515004,Embu,SP,Ativa
+1230,CENTRO REGIONAL UNIVERSITÁRIO DE ESPÍRITO SANTO DO PINHAL,UNIPINHAL,Privada,N,N,N,Centro Universitário,3515186,Espírito Santo do Pinhal,SP,Ativa
+1299,FACULDADES INTEGRADAS DE FERNANDÓPOLIS,FIFE,Privada,N,N,N,Faculdade,3515509,Fernandópolis,SP,Ativa
+22452,FACULDADE ATITUDE DE EDUCAÇÃO CONTINUADA,FAEC,Privada,N,N,N,Faculdade,3515509,Fernandópolis,SP,Ativa
+23700,Faculdade de Tecnologia de Ferraz de Vasconcelos,,Pública,N,N,N,Faculdade,3515707,Ferraz de Vasconcelos,SP,Ativa
+22425,FACULDADE ESAMC FRANCA,ESAMC FRANCA,Privada,N,N,N,Faculdade,3516200,Franca,SP,Ativa
+21693,Faculdade Anhanguera Franca,FAF,Privada,N,N,N,Faculdade,3516200,Franca,SP,Ativa
+496,UNIVERSIDADE DE FRANCA,UNIFRAN,Privada,N,N,N,Universidade,3516200,Franca,SP,Ativa
+15708,Faculdade de Tecnologia Dr. Thomaz Novelino,FATEC Franca,Pública,N,N,N,Faculdade,3516200,Franca,SP,Ativa
+59,FACULDADE DE DIREITO DE FRANCA,FDF,Pública,N,N,N,Faculdade,3516200,Franca,SP,Ativa
+60,CENTRO UNIVERSITÁRIO MUNICIPAL DE FRANCA,UNI-FACEF,Pública,N,N,N,Centro Universitário,3516200,Franca,SP,Ativa
+25412,Faculdade Metropolitana de Franca,FAMEF,Privada,N,N,N,Faculdade,3516200,Franca,SP,Ativa
+16502,FACULDADE PESTALOZZI DE FRANCA,FAPESF,Privada,N,N,N,Faculdade,3516200,Franca,SP,Ativa
+14858,FACULDADE DE TECNOLOGIA FRANCISCO MORATO,FFRAMO,Privada,N,N,N,Faculdade,3516309,Francisco Morato,SP,Ativa
+21540,FACULDADE FREIRE DE ENSINO,FFE,Privada,N,N,N,Faculdade,3516309,Francisco Morato,SP,Ativa
+23705,FACULDADE DE TECNOLOGIA DE FRANCO DA ROCHA,,Pública,N,N,N,Faculdade,3516408,Franco da Rocha,SP,Ativa
+1307,FACULDADE DE ENSINO SUPERIOR E FORMAÇÃO INTEGRAL,FAEF,Privada,N,N,N,Faculdade,3516705,Garça,SP,Ativa
+4021,FACULDADE DE TECNOLOGIA DE GARÇA,FATECGA,Pública,N,N,N,Faculdade,3516705,Garça,SP,Ativa
+492,FACULDADE DE ADMINISTRAÇÃO CIÊNCIAS ECON E CONTÁBEIS DE GUARATINGUETÁ,FACEAG,Privada,N,N,N,Faculdade,3518404,Guaratinguetá,SP,Ativa
+1584,FACULDADE DE TECNOLOGIA DE GUARATINGUETÁ,FATEC GT,Pública,N,N,N,Faculdade,3518404,Guaratinguetá,SP,Ativa
+493,FACULDADE DE EDUCAÇÃO DE GUARATINGUETÁ,FACEG,Privada,N,N,N,Faculdade,3518404,Guaratinguetá,SP,Ativa
+20530,Faculdade Marquês de Olinda,FMO,Privada,N,N,N,Faculdade,3518701,Guarujá,SP,Ativa
+1275,FACULDADE DO GUARUJÁ,FAGU,Privada,N,N,N,Faculdade,3518701,Guarujá,SP,Ativa
+491,CENTRO UNIVERSITÁRIO DON DOMÊNICO,UNIDON,Privada,N,N,N,Centro Universitário,3518701,Guarujá,SP,Ativa
+481,Universidade Universus Veritas Guarulhos,Univeritas UNG,Privada,N,N,N,Universidade,3518800,Guarulhos,SP,Ativa
+23236,Escola Superior São Judas de Guarulhos,,Privada,N,N,N,Faculdade,3518800,Guarulhos,SP,Ativa
+3294,CENTRO UNIVERSITÁRIO FAVENI,UNIFAVENI,Privada,N,N,N,Centro Universitário,3518800,Guarulhos,SP,Ativa
+23235,Instituto Universitário São Judas de Guarulhos,,Privada,N,N,N,Faculdade,3518800,Guarulhos,SP,Ativa
+483,CENTRO UNIVERSITÁRIO METROPOLITANO DE SÃO PAULO,UNIMESP,Privada,N,N,N,Centro Universitário,3518800,Guarulhos,SP,Ativa
+21822,FACULDADE FAVENI GUARULHOS,FAVENI - GUARULHOS,Privada,N,N,N,Faculdade,3518800,Guarulhos,SP,Ativa
+1892,Centro Universitário de Excelência Eniac,ENIAC,Privada,N,N,N,Centro Universitário,3518800,Guarulhos,SP,Ativa
+25445,Escola Superior do Ar,EAR,Privada,N,N,N,Faculdade,3518800,Guarulhos,SP,Ativa
+2530,FACULDADE DE GUARULHOS,FAG,Privada,N,N,N,Faculdade,3518800,Guarulhos,SP,Ativa
+14727,FACULDADE PROGRESSO,FAP,Privada,N,N,N,Faculdade,3518800,Guarulhos,SP,Ativa
+3432,"FACULDADES INTEGRADAS DE CIÊNCIAS HUMANAS, SAÚDE E EDUCAÇÃO DE GUARULHOS",FG,Privada,N,N,N,Faculdade,3518800,Guarulhos,SP,Ativa
+23228,Faculdade São Judas de Guarulhos,,Privada,N,N,N,Faculdade,3518800,Guarulhos,SP,Ativa
+22314,FACULDADE NOVE DE JULHO GUARULHOS,NOVE-GUARULHOS,Privada,N,N,N,Faculdade,3518800,Guarulhos,SP,Ativa
+15752,Faculdade de Tecnologia de Guarulhos,FATEC GR,Pública,N,N,N,Faculdade,3518800,Guarulhos,SP,Ativa
+13752,FACULDADE DOM RICARDO,FDR,Privada,N,N,N,Faculdade,3518800,Guarulhos,SP,Ativa
+24368,FACULDADE MARECHAL RONDON DE GUARULHOS,FMR-GUARULHOS,Privada,N,N,N,Faculdade,3518800,Guarulhos,SP,Ativa
+3603,FACULDADE ANHANGUERA DE GUARULHOS,null,Privada,N,N,N,Faculdade,3518800,Guarulhos,SP,Ativa
+20465,Faculdade de Agronegócios de Holambra,FAAGROH,Privada,N,N,N,Faculdade,3519055,Holambra,SP,Ativa
+886,FACULDADE DE HORTOLÂNDIA,FACH,Privada,N,N,N,Faculdade,3519071,Hortolândia,SP,Ativa
+1875,"FACULDADE DE FILOSOFIA, CIÊNCIAS E LETRAS DE IBITINGA",FAIBI,Pública,N,N,N,Faculdade,3519600,Ibitinga,SP,Ativa
+1562,FACULDADE DE ILHA SOLTEIRA,FAISA,Privada,N,N,N,Faculdade,3520442,Ilha Solteira,SP,Ativa
+2039,FACULDADE CIDADE LUZ,FACILUZ,Privada,N,N,N,Faculdade,3520442,Ilha Solteira,SP,Ativa
+3937,Faculdade Anhanguera de Indaiatuba,null,Privada,N,N,N,Faculdade,3520509,Indaiatuba,SP,Ativa
+20406,Faculdade Jaguar Indaiá,FJI,Privada,N,N,N,Faculdade,3520509,Indaiatuba,SP,Ativa
+2123,CENTRO UNIVERSITÁRIO MAX PLANCK,UniMAX,Privada,N,N,N,Centro Universitário,3520509,Indaiatuba,SP,Ativa
+24462,CENTRO DE EDUCAÇÃO TECNOLÓGICO DA FUNDAÇÃO INDAIATUBANA DE EDUCAÇÃO E CULTURA,FIEC,Pública,N,N,N,Faculdade,3520509,Indaiatuba,SP,Ativa
+1583,FACULDADE DE TECNOLOGIA DE INDAIATUBA,FATEC-ID,Pública,N,N,N,Faculdade,3520509,Indaiatuba,SP,Ativa
+1781,FACULDADE INTESP,INTESP,Privada,N,N,N,Faculdade,3520905,Ipaussu,SP,Ativa
+19883,Faculdade Sul Paulista de Itanhaém,FASUPI,Privada,N,N,N,Faculdade,3522109,Itanhaém,SP,Ativa
+1693,FACULDADE ITANHAÉM,FAITA,Privada,N,N,N,Faculdade,3522109,Itanhaém,SP,Ativa
+4878,FACULDADE ANHANGUERA DE ITAPECERICA DA SERRA,,Privada,N,N,N,Faculdade,3522208,Itapecerica da Serra,SP,Ativa
+1219,INSTITUTO ITAPETININGANO DE ENSINO SUPERIOR,IIES,Privada,N,N,N,Faculdade,3522307,Itapetininga,SP,Ativa
+533,FACULDADES INTEGRADAS DE ITAPETININGA,FII,Privada,N,N,N,Faculdade,3522307,Itapetininga,SP,Ativa
+15693,Faculdade de Tecnologia de Itapetininga - Prof.Antônio Belizandro Barbosa Rezende,Fatec - Itapetininga,Pública,N,N,N,Faculdade,3522307,Itapetininga,SP,Ativa
+23893,Faculdade Anhanguera de Itapetininga,,Privada,N,N,N,Faculdade,3522307,Itapetininga,SP,Ativa
+1281,FACULDADE DE CIÊNCIAS SOCIAIS E AGRÁRIAS DE ITAPEVA,FAIT,Privada,N,N,N,Faculdade,3522406,Itapeva,SP,Ativa
+21554,Faculdade Anhanguera de Itapeva,FAI,Privada,N,N,N,Faculdade,3522406,Itapeva,SP,Ativa
+17928,Faculdade Aliança Educacional do Estado de São Paulo,,Privada,N,N,N,Faculdade,3522505,Itapevi,SP,Ativa
+1434,Centro Universitário de Itapira Uniesi,UNIESI,Privada,N,N,N,Centro Universitário,3522604,Itapira,SP,Ativa
+19864,Faculdade de Tecnologia de Itapira,FATEC Itapira,Pública,N,N,N,Faculdade,3522604,Itapira,SP,Ativa
+1279,FACULDADE DE ITÁPOLIS - FACITA,FACITA,Privada,N,N,N,Faculdade,3522703,Itápolis,SP,Ativa
+21876,EJ - Faculdade de Tecnologia em Aviação Civil,EJ,Privada,N,N,N,Faculdade,3522703,Itápolis,SP,Ativa
+15873,Faculdade Itaquá,UNEITAQUÁ,Privada,N,N,N,Faculdade,3523107,Itaquaquecetuba,SP,Ativa
+15639,Faculdade de Tecnologia de Itaquaquecetuba,Fatec Itaqua,Pública,N,N,N,Faculdade,3523107,Itaquaquecetuba,SP,Ativa
+4793,Faculdades Integradas Vale do Rio Verde,FIVAR,Privada,N,N,N,Faculdade,3523206,Itararé,SP,Ativa
+22319,Faculdade de Tecnologia de Itatiba,Fatec Itatiba,Pública,N,N,N,Faculdade,3523404,Itatiba,SP,Ativa
+1149,CENTRO UNIVERSITÁRIO NOSSA SENHORA DO PATROCÍNIO,CEUNSP,Privada,N,N,N,Centro Universitário,3523909,Itu,SP,Ativa
+440,FACULDADE DE DIREITO DE ITÚ,FADITU,Privada,N,N,N,Faculdade,3523909,Itu,SP,Ativa
+15695,Faculdade de Tecnologia Dom Amaury Castanho,Fatec Itu,Pública,N,N,N,Faculdade,3523909,Itu,SP,Ativa
+438,FACULDADE DE FILOSOFIA CIÊNCIAS E LETRAS DE ITUVERAVA,FFCL,Privada,S,N,N,Faculdade,3524105,Ituverava,SP,Ativa
+439,FACULDADE DOUTOR FRANCISCO MAEDA,FAFRAM,Privada,N,N,N,Faculdade,3524105,Ituverava,SP,Ativa
+15753,FACULDADE DE TECNOLOGIA NILO DE STÉFANI - JABOTICABAL,FATEC JBL,Pública,N,N,N,Faculdade,3524303,Jaboticabal,SP,Ativa
+517,FACULDADE DE EDUCAÇÃO SÃO LUÍS,FESL,Privada,N,N,N,Faculdade,3524303,Jaboticabal,SP,Ativa
+24217,FACULDADE BRASILEIRA DE NEGÓCIOS INOVADORES,FABRANI,Privada,N,N,N,Faculdade,3524303,Jaboticabal,SP,Ativa
+1832,FACULDADE DE JABOTICABAL,FAJAB,Privada,N,N,N,Faculdade,3524303,Jaboticabal,SP,Ativa
+17952,Faculdade de Tecnologia de Jacareí,FATEC Jacareí,Pública,N,N,N,Faculdade,3524402,Jacareí,SP,Ativa
+778,FACULDADE IBRA DOS VALES,FACULDADE FADIVALES,Privada,N,N,N,Faculdade,3524402,Jacareí,SP,Ativa
+5555,FACULDADE ANHANGUERA DE JACAREÍ,null,Privada,N,N,N,Faculdade,3524402,Jacareí,SP,Ativa
+3743,FACULDADE DE JACAREÍ,null,Privada,N,N,N,Faculdade,3524402,Jacareí,SP,Ativa
+2688,FACULDADE INESP - INSTITUTO NACIONAL DE ENSINO E PESQUISA,INESP,Privada,N,N,N,Faculdade,3524402,Jacareí,SP,Ativa
+1490,CENTRO UNIVERSITÁRIO DE JAGUARIÚNA,UniFAJ,Privada,N,N,N,Centro Universitário,3524709,Jaguariúna,SP,Ativa
+15769,Faculdade de Tecnologia de Jales,Fatec Jales,Pública,N,N,N,Faculdade,3524808,Jales,SP,Ativa
+1224,CENTRO UNIVERSITÁRIO DE JALES,UNIJALES,Privada,N,N,N,Centro Universitário,3524808,Jales,SP,Ativa
+21239,Faculdade Anhanguera de Jaú,FAJ,Privada,N,N,N,Faculdade,3525300,Jaú,SP,Ativa
+37,FACULDADE DE TECNOLOGIA DE JAHU,FATEC-JAHU,Pública,N,N,N,Faculdade,3525300,Jaú,SP,Ativa
+1355,FACULDADES INTEGRADAS DE JAHU,FIJ,Privada,N,N,N,Faculdade,3525300,Jaú,SP,Ativa
+1502,FACULDADE ANHANGUERA PITÁGORAS DE JUNDIAÍ,null,Privada,N,N,N,Faculdade,3525904,Jundiaí,SP,Ativa
+4017,CENTRO UNIVERSITÁRIO PADRE ANCHIETA,UNIANCHIETA,Privada,N,N,N,Centro Universitário,3525904,Jundiaí,SP,Ativa
+1412,FACULDADE ANHANGUERA DE JUNDIAÍ,null,Privada,N,N,N,Faculdade,3525904,Jundiaí,SP,Ativa
+17902,FACULDADE ESAMC JUNDIAÍ,ESAMC,Privada,N,N,N,Faculdade,3525904,Jundiaí,SP,Ativa
+4022,FACULDADE DE TECNOLOGIA DE JUNDIAÍ,FATEC/JD,Pública,N,N,N,Faculdade,3525904,Jundiaí,SP,Ativa
+94,ESCOLA SUPERIOR DE EDUCAÇÃO FÍSICA DE JUNDIAÍ,ESEFJ,Privada,N,N,N,Faculdade,3525904,Jundiaí,SP,Ativa
+93,FACULDADE DE MEDICINA DE JUNDIAÍ,FMJ,Privada,N,N,N,Faculdade,3525904,Jundiaí,SP,Ativa
+1776,Faculdade Anhanguera de Tecnologia de Jundiaí,null,Privada,N,N,N,Faculdade,3525904,Jundiaí,SP,Ativa
+3302,Faculdade REGES de Junqueirópolis,null,Privada,N,N,N,Faculdade,3526001,Junqueirópolis,SP,Ativa
+1045,CENTRO UNIVERSITÁRIO ANHANGÜERA,UNIFIAN,Privada,N,N,N,Centro Universitário,3526704,Leme,SP,Ativa
+1433,FACULDADE ORÍGENES LESSA,FACOL,Privada,N,N,N,Faculdade,3526803,Lençóis Paulista,SP,Ativa
+1788,FACULDADE DE ADMINISTRAÇÃO E ARTES DE LIMEIRA,FAAL,Privada,N,N,N,Faculdade,3526902,Limeira,SP,Ativa
+346,INSTITUTO SUPERIOR DE CIÊNCIAS APLICADAS - ISCA,ISCA,Privada,N,N,N,Faculdade,3526902,Limeira,SP,Ativa
+3936,FACULDADE ANHANGUERA DE LIMEIRA,null,Privada,N,N,N,Faculdade,3526902,Limeira,SP,Ativa
+1444,FACULDADES INTEGRADAS EINSTEIN DE LIMEIRA,FIEL,Privada,N,N,N,Faculdade,3526902,Limeira,SP,Ativa
+15715,FACULDADE DE TECNOLOGIA PROFESSOR ANTÔNIO SEABRA,FATEC LINS,Pública,N,N,N,Faculdade,3527108,Lins,SP,Ativa
+4522,CENTRO UNIVERSITÁRIO CATÓLICO SALESIANO AUXILIUM,UNISALESIANO,Privada,N,N,N,Centro Universitário,3527108,Lins,SP,Ativa
+1846,CENTRO UNIVERSITÁRIO DE LINS,UNILINS,Privada,N,N,N,Centro Universitário,3527108,Lins,SP,Ativa
+738,CENTRO UNIVERSITÁRIO TERESA D'ÁVILA,FATEA,Privada,N,N,N,Centro Universitário,3527207,Lorena,SP,Ativa
+24026,Instituto de Serra Dourada,,Privada,N,N,N,Faculdade,3527207,Lorena,SP,Ativa
+24024,Centro de Ensino Superior de Lorena,,Privada,N,N,N,Faculdade,3527207,Lorena,SP,Ativa
+24025,Centro de Ensino Superior de Serra Dourada,,Privada,N,N,N,Faculdade,3527207,Lorena,SP,Ativa
+5045,FACULDADE DE TECNOLOGIA PAULISTA,null,Privada,N,N,N,Faculdade,3527801,Lupércio,SP,Ativa
+1144,FACULDADE DE CIÊNCIAS HUMANAS,IMENSU,Privada,N,N,N,Faculdade,3528502,Mairiporã,SP,Ativa
+25148,Escola Superior de Educação e Negócios,ESN,Privada,N,N,N,Faculdade,3529005,Marília,SP,Ativa
+4000,FACULDADE DE ENSINO SUPERIOR DO INTERIOR PAULISTA,FAIP,Privada,N,N,N,Faculdade,3529005,Marília,SP,Ativa
+15859,Faculdade Católica Paulista,FACAP,Privada,N,N,N,Faculdade,3529005,Marília,SP,Ativa
+3529,CENTRO UNIVERSITÁRIO EURÍPEDES DE MARÍLIA,UNIVEM,Privada,N,S,N,Centro Universitário,3529005,Marília,SP,Ativa
+15784,Faculdade de Tecnologia Estudante Rafael Almeida Camarinha - Marilia,Fatec Marilia,Pública,N,N,N,Centro Universitário,3529005,Marília,SP,Ativa
+431,FACULDADE DE MEDICINA DE MARÍLIA,FAMEMA,Pública,N,N,N,Faculdade,3529005,Marília,SP,Ativa
+420,UNIVERSIDADE DE MARÍLIA,UNIMAR,Privada,N,N,N,Universidade,3529005,Marília,SP,Ativa
+3012,FAJOPA - FACULDADE JOÃO PAULO II,FAJOPA,Privada,N,N,N,Faculdade,3529005,Marília,SP,Ativa
+13938,FACULDADE DE MARÍLIA,FAMAR,Privada,N,N,N,Faculdade,3529005,Marília,SP,Ativa
+18734,Faculdade de Martinópolis,FAMA,Privada,N,N,N,Faculdade,3529203,Martinópolis,SP,Ativa
+2355,FACULDADE ANHANGUERA DE MATÃO,null,Privada,N,N,N,Faculdade,3529302,Matão,SP,Ativa
+24672,FACULDADE DE TECNOLOGIA DE MATÃO,,Pública,N,N,N,Faculdade,3529302,Matão,SP,Ativa
+18698,INSTITUTO RACINE DE EDUCAÇÃO SUPERIOR,RACINE,Privada,N,N,N,Faculdade,3529302,Matão,SP,Ativa
+1301,INSTITUTO MATONENSE MUNICIPAL DE ENSINO SUPERIOR,IMMES,Privada,N,N,N,Faculdade,3529302,Matão,SP,Ativa
+4023,FACULDADE DE TECNOLOGIA DE MAUÁ,FATEC MAUÁ,Pública,N,N,N,Faculdade,3529401,Mauá,SP,Ativa
+1804,FACULDADE DE MAUÁ - FAMA,FAMA,Privada,N,N,N,Faculdade,3529401,Mauá,SP,Ativa
+22316,FACULDADE NOVE DE JULHO MAUÁ,NOVE_MAUÁ,Privada,N,N,N,Faculdade,3529401,Mauá,SP,Ativa
+24275,Faculdade Unificada do Estado de São Paulo,FAUESP - online,Privada,N,N,N,Faculdade,3529401,Mauá,SP,Ativa
+18258,FACULDADE UNIFICADA DO ESTADO DE SÃO PAULO,FAUESP,Privada,N,N,N,Faculdade,3529401,Mauá,SP,Ativa
+24369,FACULDADE MARECHAL RONDON DE MAUÁ,FMR-MAUÁ,Privada,N,N,N,Faculdade,3529401,Mauá,SP,Ativa
+1118,FACULDADE DE MIRASSOL,null,Privada,N,N,N,Faculdade,3530300,Mirassol,SP,Ativa
+4024,FACULDADE DE TECNOLOGIA DE MOCOCA,FATEC,Pública,N,N,N,Faculdade,3530508,Mococa,SP,Ativa
+170,FUNVIC - FACULDADE FUNVIC DE MOCOCA,,Privada,N,N,N,Faculdade,3530508,Mococa,SP,Ativa
+526,CENTRO UNIVERSITÁRIO BRAZ CUBAS,,Privada,N,N,N,Centro Universitário,3530607,Mogi das Cruzes,SP,Ativa
+2389,FACULDADE DE FILOSOFIA E TEOLOGIA PAULO VI,FFTP,Privada,N,N,N,Faculdade,3530607,Mogi das Cruzes,SP,Ativa
+243,FACULDADE DO CLUBE NÁUTICO MOGIANO,FCNM,Privada,N,N,N,Faculdade,3530607,Mogi das Cruzes,SP,Ativa
+521,UNIVERSIDADE DE MOGI DAS CRUZES,UMC,Privada,N,N,N,Universidade,3530607,Mogi das Cruzes,SP,Ativa
+15576,Faculdade de Tecnologia de Mogi das Cruzes,FATEC-MC,Pública,N,N,N,Faculdade,3530607,Mogi das Cruzes,SP,Ativa
+734,FACULDADES INTEGRADAS MARIA IMACULADA,FIMI,Privada,N,N,N,Faculdade,3530706,Mogi Guaçu,SP,Ativa
+1876,FACULDADE MUNICIPAL PROFESSOR FRANCO MONTORO DE MOGI GUAÇU,FMPFM,Pública,N,N,N,Faculdade,3530706,Mogi Guaçu,SP,Ativa
+12522,FACULDADE MOGIANA DO ESTADO DE SÃO PAULO,FMG,Privada,N,N,N,Faculdade,3530706,Mogi Guaçu,SP,Ativa
+21833,Faculdade Anhanguera de Mogi Guaçu,FAMG,Privada,N,N,N,Faculdade,3530706,Mogi Guaçu,SP,Ativa
+910,FACULDADE SANTA LÚCIA,FCACSL,Privada,N,N,N,Faculdade,3530805,Moji Mirim,SP,Ativa
+24072,FACULDADE MOGIANA,FAMOGI,Privada,N,N,N,Faculdade,3530805,Moji Mirim,SP,Ativa
+15714,Fatec Arthur Azevedo - Mogi Mirim,FATECMM,Pública,N,N,N,Faculdade,3530805,Moji Mirim,SP,Ativa
+219,FACULDADE DE EDUCAÇÃO CIÊNCIAS E ARTES DOM BOSCO DE MONTE APRAZÍVEL,FAECA DOM BOSCO,Privada,N,N,N,Faculdade,3531407,Monte Aprazível,SP,Ativa
+1621,FACULDADE NETWORK,NWK,Privada,N,N,N,Faculdade,3533403,Nova Odessa,SP,Ativa
+1620,FACULDADE SANTA RITA,FASAR,Privada,N,N,N,Faculdade,3533502,Novo Horizonte,SP,Ativa
+1619,FACULDADE DE OLÍMPIA,null,Privada,N,N,N,Faculdade,3533908,Olímpia,SP,Ativa
+15709,Faculdade de Tecnologia de Osasco - Prefeito Hirant Sanazar,Fatec Osasco,Pública,N,N,N,Faculdade,3534401,Osasco,SP,Ativa
+4815,FACULDADE DE TECNOLOGIA SENAI NADIR DIAS DE FIGUEIREDO,null,Privada,N,N,N,Faculdade,3534401,Osasco,SP,Ativa
+25181,FACULDADE ALPHAVILLE,FAVI,Privada,N,N,N,Faculdade,3534401,Osasco,SP,Ativa
+1345,FACULDADE ANHANGUERA DE OSASCO,null,Privada,N,N,N,Faculdade,3534401,Osasco,SP,Ativa
+1806,FACULDADE FERNÃO DIAS,FAFE,Privada,N,N,N,Faculdade,3534401,Osasco,SP,Ativa
+18526,FACULDADE DE OSASCO,FCO,Privada,N,N,N,Faculdade,3534401,Osasco,SP,Ativa
+543,FACULDADE DE CIÊNCIAS DA FUNDAÇÃO INSTITUTO TECNOLÓGICO DE OSASCO,FAC-FITO,Pública,N,N,N,Faculdade,3534401,Osasco,SP,Ativa
+244,CENTRO UNIVERSITÁRIO FIEO,UNIFIEO,Privada,N,N,N,Centro Universitário,3534401,Osasco,SP,Ativa
+22746,Faculdade Fleming de Osasco,A. Fleming,Privada,N,N,N,Faculdade,3534401,Osasco,SP,Ativa
+2177,Faculdade Instituto Paulista de Ensino,FIPEN,Privada,N,N,N,Faculdade,3534401,Osasco,SP,Ativa
+22312,FACULDADE NOVE DE JULHO DE OSASCO,NOVE-OSASCO,Privada,N,N,N,Faculdade,3534401,Osasco,SP,Ativa
+1122,FACULDADE REGES DE OSVALDO CRUZ,null,Privada,N,N,N,Faculdade,3534609,Osvaldo Cruz,SP,Ativa
+1659,FACULDADE ESTÁCIO DE SÁ DE OURINHOS,FAESO,Privada,N,N,N,Faculdade,3534708,Ourinhos,SP,Ativa
+265,CENTRO UNIVERSITÁRIO DAS FACULDADES INTEGRADAS DE OURINHOS,Unifio,Privada,N,N,N,Centro Universitário,3534708,Ourinhos,SP,Ativa
+1874,FACULDADE DE TECNOLOGIA DE OURINHOS,FATEC,Pública,N,N,N,Faculdade,3534708,Ourinhos,SP,Ativa
+1221,Escola Superior de Agronomia de Paraguaçu Paulista,ESAPP,Privada,N,N,N,Faculdade,3535507,Paraguaçu Paulista,SP,Ativa
+4167,INSTITUTO DE ENSINO SUPERIOR DA FUPESP,IESF,Pública,N,N,N,Faculdade,3536505,Paulínia,SP,Ativa
+1949,CENTRO UNIVERSITÁRIO DE PAULÍNIA,UNIFACP,Privada,N,N,N,Centro Universitário,3536505,Paulínia,SP,Ativa
+1732,FACULDADE GENNARI E PEARTREE,FGP,Privada,N,N,N,Faculdade,3536703,Pederneiras,SP,Ativa
+22716,FACULDADE PITÁGORAS DE PENÁPOLIS,,Privada,N,N,N,Faculdade,3537305,Penápolis,SP,Ativa
+3400,FACULDADE DE PENÁPOLIS,null,Privada,N,N,N,Faculdade,3537305,Penápolis,SP,Ativa
+68,FACULDADE DE FILOSOFIA CIÊNCIAS E LETRAS DE PENÁPOLIS,FAFIPE,Privada,N,N,N,Faculdade,3537305,Penápolis,SP,Ativa
+1266,FACULDADES INTEGRADAS URUBUPUNGÁ,FIU,Privada,N,N,N,Faculdade,3537404,Pereira Barreto,SP,Ativa
+4185,FACULDADE PERUIBE,FPBE,Privada,N,N,N,Faculdade,3537602,Peruíbe,SP,Ativa
+15687,Faculdade de Tecnologia de Pindamonhangaba,FATEC PI,Pública,N,N,N,Faculdade,3538006,Pindamonhangaba,SP,Ativa
+652,Centro Universitário Santa Cecília,Unicea,Privada,N,N,N,Centro Universitário,3538006,Pindamonhangaba,SP,Ativa
+12791,FACULDADE ANHANGUERA DE PINDAMONHANGABA,null,Privada,N,N,N,Faculdade,3538006,Pindamonhangaba,SP,Ativa
+2494,Centro Universitário FUNVIC,UNIFUNVIC,Privada,N,N,N,Centro Universitário,3538006,Pindamonhangaba,SP,Ativa
+15922,Faculdade FABAD,FABAD,Privada,N,N,N,Faculdade,3538006,Pindamonhangaba,SP,Ativa
+22222,FACULDADE UNIVERITAS UNIVERSUS VERITAS DE PIRACICABA,UNIVERITAS PCBA,Privada,N,N,N,Faculdade,3538709,Piracicaba,SP,Ativa
+67,ESCOLA DE ENGENHARIA DE PIRACICABA,EEP/FUMEP,Pública,N,N,N,Faculdade,3538709,Piracicaba,SP,Ativa
+266,UNIVERSIDADE METODISTA DE PIRACICABA,UNIMEP,Privada,S,S,N,Universidade,3538709,Piracicaba,SP,Ativa
+21638,Faculdade PECEGE,PECEGE,Privada,N,N,N,Faculdade,3538709,Piracicaba,SP,Ativa
+15682,Faculdade de Tecnologia de Piracicaba,Fatec Piracicaba,Pública,N,N,N,Faculdade,3538709,Piracicaba,SP,Ativa
+4656,FACULDADE ANHANGÜERA DE PIRACICABA,null,Privada,N,N,N,Faculdade,3538709,Piracicaba,SP,Ativa
+4150,FACULDADE DE TECNOLOGIA DE PIRACICABA,FATEP,Privada,N,N,N,Faculdade,3538709,Piracicaba,SP,Ativa
+2332,Faculdade Ibero Americana de São Paulo,FIASP,Privada,N,N,N,Faculdade,3538808,Piraju,SP,Ativa
+4007,"FATECE - FACULDADE DE TECNOLOGIA, CIÊNCIAS E EDUCAÇÃO",FATECE,Privada,N,N,N,Faculdade,3539301,Pirassununga,SP,Ativa
+19325,Faculdade do Centro Oeste Paulista,FACOP,Privada,N,N,N,Faculdade,3539400,Piratininga,SP,Ativa
+17953,Faculdade de Tecnologia de Pompeia - Shunji Nishimura,FATEC Pompeia,Pública,N,N,N,Faculdade,3540002,Pompéia,SP,Ativa
+13796,FACULDADE DE PORTO FELIZ,,Privada,N,N,N,Faculdade,3540606,Porto Feliz,SP,Ativa
+14401,FACULDADE DE TECNOLOGIA PORTO DAS MONÇÕES,FAMO,Privada,N,N,N,Faculdade,3540606,Porto Feliz,SP,Ativa
+3428,FACULDADE ALFA AMÉRICA,null,Privada,N,N,N,Faculdade,3541000,Praia Grande,SP,Ativa
+1898,FACULDADE DO LITORAL SUL PAULISTA,FALS,Privada,N,N,N,Faculdade,3541000,Praia Grande,SP,Ativa
+14069,FACULDADE DE TECNOLOGIA PORTO SUL,FAPS,Privada,N,N,N,Faculdade,3541000,Praia Grande,SP,Ativa
+14890,FACULDADE PRAIA GRANDE,FPG,Privada,N,N,N,Faculdade,3541000,Praia Grande,SP,Ativa
+4926,FACULDADE DE TECNOLOGIA DE PRAIA GRANDE,FATECPG,Pública,N,N,N,Faculdade,3541000,Praia Grande,SP,Ativa
+1096,FACULDADE DE PRESIDENTE EPITÁCIO - FAPE,FAPE,Privada,N,N,N,Faculdade,3541307,Presidente Epitácio,SP,Ativa
+271,UNIVERSIDADE DO OESTE PAULISTA,UNOESTE,Privada,N,N,N,Universidade,3541406,Presidente Prudente,SP,Ativa
+1711,FACULDADE DE PRESIDENTE PRUDENTE,FAPEPE,Privada,N,N,N,Faculdade,3541406,Presidente Prudente,SP,Ativa
+5627,FACULDADE DE TECNOLOGIA DE PRESIDENTE PRUDENTE,FATEC,Pública,N,N,N,Faculdade,3541406,Presidente Prudente,SP,Ativa
+1841,CENTRO UNIVERSITÁRIO ANTÔNIO EUFRÁSIO DE TOLEDO DE PRESIDENTE PRUDENTE - TOLEDO PRUDENTE,TOLEDO PRUDENTE,Privada,N,N,N,Centro Universitário,3541406,Presidente Prudente,SP,Ativa
+18372,FACULDADE SOLIDARIA DO OESTE PAULISTA,FASOL,Privada,N,N,N,Faculdade,3541406,Presidente Prudente,SP,Ativa
+3513,FACULDADE DE PRESIDENTE VENCESLAU,FAPREV,Privada,N,N,N,Faculdade,3541505,Presidente Venceslau,SP,Ativa
+22021,FACULDADE SÃO PAULO DE PRESIDENTE VENCESLAU,FASPREV,Privada,N,N,N,Faculdade,3541505,Presidente Venceslau,SP,Ativa
+1884,FACULDADE DE RANCHARIA,null,Privada,N,N,N,Faculdade,3542206,Rancharia,SP,Ativa
+1554,CENTRO UNIVERSITÁRIO DO VALE DO RIBEIRA,UNIVR,Privada,N,N,N,Centro Universitário,3542602,Registro,SP,Ativa
+14878,TREVISAN ESCOLA SUPERIOR DE NEGÓCIOS-,TEN,Privada,N,N,N,Faculdade,3542909,Ribeirão Bonito,SP,Ativa
+22176,Faculdade ENAU,FacEnau,Privada,N,N,N,Faculdade,3543303,Ribeirão Pires,SP,Ativa
+1304,FACULDADE DE RIBEIRÃO PIRES,null,Privada,N,N,N,Faculdade,3543303,Ribeirão Pires,SP,Ativa
+207,CENTRO UNIVERSITÁRIO MOURA LACERDA,CUML,Privada,N,N,N,Centro Universitário,3543402,Ribeirão Preto,SP,Ativa
+5288,FACULDADE ANHANGÜERA DE RIBEIRÃO PRETO,null,Privada,N,N,N,Faculdade,3543402,Ribeirão Preto,SP,Ativa
+23194,Faculdade PSICOLOG,FAPSI,Privada,N,N,N,Faculdade,3543402,Ribeirão Preto,SP,Ativa
+21850,Instituto Internacional de Estudos em Saude,IIESAU,Privada,N,N,N,Faculdade,3543402,Ribeirão Preto,SP,Ativa
+4596,FACULDADE REGES DE RIBEIRÃO PRETO,null,Privada,N,N,N,Faculdade,3543402,Ribeirão Preto,SP,Ativa
+22659,Faculdade SEB de Ribeirão Preto,SEBRP,Privada,N,N,N,Faculdade,3543402,Ribeirão Preto,SP,Ativa
+1465,FACULDADE DE RIBEIRÃO PRETO,AFARP,Privada,N,N,N,Faculdade,3543402,Ribeirão Preto,SP,Ativa
+14969,FACULDADE DE TECNOLOGIA EM SAÚDE,FATESA,Privada,N,N,N,Faculdade,3543402,Ribeirão Preto,SP,Ativa
+26443,International Orofacial Academy RP,IOA RP,Privada,N,N,N,Faculdade,3543402,Ribeirão Preto,SP,Ativa
+23723,FACULDADE VOLPE MIELE,FVM,Privada,N,N,N,Faculdade,3543402,Ribeirão Preto,SP,Ativa
+23145,Faculdade SEB Lafaiete,SEBLF,Privada,N,N,N,Faculdade,3543402,Ribeirão Preto,SP,Ativa
+21713,Faculdade de Tecnologia - Fatec de Ribeirão Preto,,Pública,N,N,N,Faculdade,3543402,Ribeirão Preto,SP,Ativa
+208,UNIVERSIDADE DE RIBEIRÃO PRETO,UNAERP,Privada,N,N,N,Universidade,3543402,Ribeirão Preto,SP,Ativa
+16543,Faculdade Metropolitana do Estado de São Paulo,FAMEESP,Privada,N,N,N,Faculdade,3543402,Ribeirão Preto,SP,Ativa
+138,CENTRO UNIVERSITÁRIO BARÃO DE MAUÁ,CBM,Privada,N,N,N,Centro Universitário,3543402,Ribeirão Preto,SP,Ativa
+1270,CENTRO UNIVERSITÁRIO ESTÁCIO DE RIBEIRÃO PRETO,ESTÁCIO RIBEIRÃO PRE,Privada,N,N,N,Centro Universitário,3543402,Ribeirão Preto,SP,Ativa
+3307,FACULDADE DE RIO CLARO,CBTA,Privada,N,N,N,Faculdade,3543907,Rio Claro,SP,Ativa
+4013,FACULDADE ANHANGUERA DE RIO CLARO,null,Privada,N,N,N,Faculdade,3543907,Rio Claro,SP,Ativa
+1854,CLARETIANO - CENTRO UNIVERSITÁRIO,null,Privada,S,N,N,Centro Universitário,3543907,Rio Claro,SP,Ativa
+1413,FACULDADE DE PRIMAVERA,CESPRI,Privada,N,N,N,Faculdade,3544251,Rosana,SP,Ativa
+4090,FACULDADE DE ROSEIRA,FARO,Privada,N,N,N,Faculdade,3544301,Roseira,SP,Ativa
+4138,FACULDADE ANHANGUERA DE SANTA BÁRBARA,null,Privada,N,N,N,Faculdade,3545803,Santa Bárbara d´Oeste,SP,Ativa
+4029,FACULDADE DE SANTA BÁRBARA D'OESTE,FAP,Privada,N,N,N,Faculdade,3545803,Santa Bárbara d´Oeste,SP,Ativa
+1497,FACULDADE DE ADMINISTRAÇÃO DE SANTA CRUZ DO RIO PARDO,FASC,Privada,N,N,N,Faculdade,3546405,Santa Cruz do Rio Pardo,SP,Ativa
+1356,CENTRO UNIVERSITÁRIO DE SANTA FÉ DO SUL,UNIFUNEC,Pública,N,N,N,Centro Universitário,3546603,Santa Fé do Sul,SP,Ativa
+20478,Faculdade de Tecnologia de Santana de Parnaíba,FATEC-SPB,Pública,N,N,N,Faculdade,3547304,Santana de Parnaíba,SP,Ativa
+19861,Faculdade de Santana de Parnaíba,FASP,Privada,N,N,N,Faculdade,3547304,Santana de Parnaíba,SP,Ativa
+24196,FACULDADE CLEBER LEITE - EAD,FCL - EAD,Privada,N,N,N,Faculdade,3547809,Santo André,SP,Ativa
+4086,FACULDADE DE TECNOLOGIA JARDIM,FATEJ,Privada,N,N,N,Faculdade,3547809,Santo André,SP,Ativa
+1723,STRONG BUSINESS SCHOOL,null,Privada,N,N,N,Faculdade,3547809,Santo André,SP,Ativa
+224,Centro Universitário FMABC,FMABC,Privada,N,N,N,Centro Universitário,3547809,Santo André,SP,Ativa
+15585,Faculdade de Tecnologia Santo André,FATEC-SA,Pública,N,N,N,Faculdade,3547809,Santo André,SP,Ativa
+242,CENTRO UNIVERSITÁRIO ANHANGUERA PITÁGORAS AMPLI,null,Privada,N,N,N,Centro Universitário,3547809,Santo André,SP,Ativa
+3779,FACULDADE ESTÁCIO DE SANTO ANDRÉ,ESTÁCIO SANTO ANDRÉ,Privada,N,N,N,Faculdade,3547809,Santo André,SP,Ativa
+2183,CENTRO UNIVERSITÁRIO FUNDAÇÃO SANTO ANDRÉ,CUFSA,Privada,N,N,N,Centro Universitário,3547809,Santo André,SP,Ativa
+3978,FACULDADE DE TECNOLOGIA PENTÁGONO,FATEP,Privada,N,N,N,Faculdade,3547809,Santo André,SP,Ativa
+1387,FACULDADE PENTÁGONO - FAPEN,FAPEN,Privada,N,N,N,Faculdade,3547809,Santo André,SP,Ativa
+4925,FUNDAÇÃO UNIVERSIDADE FEDERAL DO ABC,UFABC,Pública,N,N,N,Universidade,3547809,Santo André,SP,Ativa
+225,FACULDADE DE SANTO ANDRÉ,null,Privada,N,N,N,Faculdade,3547809,Santo André,SP,Ativa
+22527,Faculdade Cleber Leite,FCL,Privada,N,N,N,Faculdade,3547809,Santo André,SP,Ativa
+227,UNIVERSIDADE CATÓLICA DE SANTOS,UNISANTOS,Privada,S,S,N,Universidade,3548500,Santos,SP,Ativa
+953,UNIVERSIDADE METROPOLITANA DE SANTOS,UNIMES,Privada,N,N,N,Universidade,3548500,Santos,SP,Ativa
+952,UNIVERSIDADE SANTA CECÍLIA,UNISANTA,Privada,N,N,N,Universidade,3548500,Santos,SP,Ativa
+502,CENTRO UNIVERSITÁRIO SÃO JUDAS TADEU,CSJT,Privada,N,N,N,Centro Universitário,3548500,Santos,SP,Ativa
+4943,STRONG BUSINESS SCHOOL BS,null,Privada,N,N,N,Faculdade,3548500,Santos,SP,Ativa
+226,CENTRO UNIVERSITÁRIO LUSÍADA,UNILUS,Privada,N,N,N,Centro Universitário,3548500,Santos,SP,Ativa
+2408,FACULDADE ESAMC SANTOS,ESAMC,Privada,N,N,N,Faculdade,3548500,Santos,SP,Ativa
+36,FACULDADE DE TECNOLOGIA RUBENS LARA,FATEC-BS,Pública,N,N,N,Faculdade,3548500,Santos,SP,Ativa
+23261,Faculdade São Judas de São Bernardo do Campo,,Privada,N,N,N,Faculdade,3548708,São Bernardo do Campo,SP,Ativa
+22627,Faculdade Abrange ABC,FABRANGE,Privada,N,N,N,Faculdade,3548708,São Bernardo do Campo,SP,Ativa
+1478,FACULDADE ANHANGUERA DE SÃO BERNARDO,null,Privada,N,N,N,Faculdade,3548708,São Bernardo do Campo,SP,Ativa
+1878,CENTRO UNIVERSITÁRIO DA FUNDAÇÃO EDUCACIONAL INACIANA PE SABÓIA DE MEDEIROS,FEI,Privada,S,N,N,Centro Universitário,3548708,São Bernardo do Campo,SP,Ativa
+1286,Faculdade de Tecnologia Senai Mario Amato,SENAI,Privada,N,N,N,Faculdade,3548708,São Bernardo do Campo,SP,Ativa
+58,FACULDADE DE DIREITO DE SÃO BERNARDO DO CAMPO,FDSBC,Pública,N,N,N,Faculdade,3548708,São Bernardo do Campo,SP,Ativa
+2131,FACULDADE DE SÃO BERNARDO DO CAMPO,FAPAN,Privada,N,N,N,Faculdade,3548708,São Bernardo do Campo,SP,Ativa
+23242,Escola Superior São Judas de São Bernardo do Campo,,Privada,N,N,N,Faculdade,3548708,São Bernardo do Campo,SP,Ativa
+167,UNIVERSIDADE METODISTA DE SÃO PAULO,UMESP,Privada,S,N,N,Universidade,3548708,São Bernardo do Campo,SP,Ativa
+231,FACULDADE DE SÃO BERNARDO DO CAMPO - FASB,FASB I,Privada,N,N,N,Faculdade,3548708,São Bernardo do Campo,SP,Ativa
+3308,FACULDADE ENGENHEIRO SALVADOR ARENA,FESA,Privada,N,N,N,Faculdade,3548708,São Bernardo do Campo,SP,Ativa
+23241,Instituto Universitário São Judas de São Bernardo do Campo,,Privada,N,N,N,Faculdade,3548708,São Bernardo do Campo,SP,Ativa
+22311,FACULDADE NOVE DE JULHO DE SÃO BERNARDO DO CAMPO,NOVE-SBC,Privada,N,N,N,Faculdade,3548708,São Bernardo do Campo,SP,Ativa
+5099,FACULDADE DE TECNOLOGIA DE SÃO BERNARDO DO CAMPO,FATEC-SB,Pública,N,N,N,Faculdade,3548708,São Bernardo do Campo,SP,Ativa
+361,Faculdade Paulista de Serviço Social de São Caetano do Sul,FAPSS,Privada,N,N,N,Faculdade,3548807,São Caetano do Sul,SP,Ativa
+605,UNIVERSIDADE MUNICIPAL DE SÃO CAETANO DO SUL,USCS,Pública,N,N,N,Universidade,3548807,São Caetano do Sul,SP,Ativa
+1972,Faculdade de São Caetano do Sul,null,Privada,N,N,N,Faculdade,3548807,São Caetano do Sul,SP,Ativa
+1445,CENTRO UNIVERSITÁRIO DO INSTITUTO MAUÁ DE TECNOLOGIA,CEUN-IMT,Privada,N,N,N,Centro Universitário,3548807,São Caetano do Sul,SP,Ativa
+15745,Faculdade de Tecnologia de São Caetano do Sul,FATEC SCS,Pública,N,N,N,Faculdade,3548807,São Caetano do Sul,SP,Ativa
+1195,FACULDADE SENAI DE TECNOLOGIA MECATRÔNICA,SENAI,Privada,N,N,N,Faculdade,3548807,São Caetano do Sul,SP,Ativa
+707,CENTRO UNIVERSITÁRIO CENTRAL PAULISTA,UNICEP,Privada,N,N,N,Centro Universitário,3548906,São Carlos,SP,Ativa
+17745,Faculdade de São Carlos,FASC,Privada,N,N,N,Faculdade,3548906,São Carlos,SP,Ativa
+7,UNIVERSIDADE FEDERAL DE SÃO CARLOS,UFSCAR,Pública,N,N,N,Universidade,3548906,São Carlos,SP,Ativa
+19500,Faculdade de Tecnologia de São Carlos,FATEC São Carlo,Pública,N,N,N,Faculdade,3548906,São Carlos,SP,Ativa
+4820,FACULDADE DE TECNOLOGIA SENAI ANTÔNIO ADOLPHO LOBBE,null,Privada,N,N,N,Faculdade,3548906,São Carlos,SP,Ativa
+1836,CENTRO UNIVERSITÁRIO FUNDAÇÃO DE ENSINO OCTÁVIO BASTOS - FEOB,UNIFEOB,Privada,S,N,N,Centro Universitário,3549102,São João da Boa Vista,SP,Ativa
+217,CENTRO UNIVERSITÁRIO DAS FACULDADES ASSOCIADAS DE ENSINO - FAE,UNIFAE,Pública,N,N,N,Centro Universitário,3549102,São João da Boa Vista,SP,Ativa
+22175,Faculdade  São Joaquim da Barra,,Privada,N,N,N,Faculdade,3549409,São Joaquim da Barra,SP,Ativa
+4059,"FACULDADE DE SAÚDE, CIÊNCIAS E TECNOLOGIA - FACESB",FACESB,Privada,N,N,N,Faculdade,3549409,São Joaquim da Barra,SP,Ativa
+74,FACULDADE DE FILOSOFIA CIÊNCIAS E LETRAS DE SÃO JOSÉ DO RIO PARDO,FFCL,Pública,N,N,N,Faculdade,3549706,São José do Rio Pardo,SP,Ativa
+1046,UNIÃO DAS FACULDADES DOS GRANDES LAGOS,UNILAGO,Privada,N,N,N,Faculdade,3549805,São José do Rio Preto,SP,Ativa
+24253,Faculdade Invictus,FIRP,Privada,N,N,N,Faculdade,3549805,São José do Rio Preto,SP,Ativa
+5124,FACULDADE FACMIL,null,Privada,N,N,N,Faculdade,3549805,São José do Rio Preto,SP,Ativa
+2342,INSTITUTO SUPERIOR DE EDUCAÇÃO CERES,ISE-CERES,Privada,N,N,N,Faculdade,3549805,São José do Rio Preto,SP,Ativa
+17803,Faculdade Estácio de Rio Preto,Estácio Rio Preto,Privada,N,N,N,Faculdade,3549805,São José do Rio Preto,SP,Ativa
+146,CENTRO UNIVERSITÁRIO DE RIO PRETO,UNIRP,Privada,N,N,N,Centro Universitário,3549805,São José do Rio Preto,SP,Ativa
+21238,Faculdade Anhanguera de São José do Rio Preto,FASJRP,Privada,N,N,N,Faculdade,3549805,São José do Rio Preto,SP,Ativa
+1129,CENTRO UNIVERSITÁRIO DO NORTE DE SÃO PAULO,UNORTE,Privada,N,N,N,Centro Universitário,3549805,São José do Rio Preto,SP,Ativa
+21204,FACULDADE UNITERP,FACTERP,Privada,N,N,N,Faculdade,3549805,São José do Rio Preto,SP,Ativa
+4025,FACULDADE DE TECNOLOGIA DE SÃO JOSÉ DO RIO PRETO,FATECRP,Pública,N,N,N,Faculdade,3549805,São José do Rio Preto,SP,Ativa
+149,FACULDADE DE MEDICINA DE SÃO JOSÉ DO RIO PRETO,FAMERP,Pública,N,N,N,Faculdade,3549805,São José do Rio Preto,SP,Ativa
+3533,FACULDADE CERES,FACERES,Privada,N,N,N,Faculdade,3549805,São José do Rio Preto,SP,Ativa
+3753,FACULDADES INTEGRADAS DOM PEDRO II,DOMPEDRO,Privada,N,N,N,Faculdade,3549805,São José do Rio Preto,SP,Ativa
+275,UNIVERSIDADE DO VALE DO PARAÍBA,UNIVAP,Privada,S,N,N,Universidade,3549904,São José dos Campos,SP,Ativa
+4652,FACULDADE ANHANGÜERA DE SÃO JOSÉ,null,Privada,N,N,N,Faculdade,3549904,São José dos Campos,SP,Ativa
+17887,Faculdade de Ciências Médicas de São José dos Campos,,Privada,N,N,N,Faculdade,3549904,São José dos Campos,SP,Ativa
+4983,FACULDADE IBRA DE TECNOLOGIA,FACULDADE FITEC,Privada,N,N,N,Faculdade,3549904,São José dos Campos,SP,Ativa
+15521,FACULDADE CATÓLICA DE SÃO JOSÉ DOS CAMPOS,CATÓLICA-SJC,Privada,N,N,N,Faculdade,3549904,São José dos Campos,SP,Ativa
+3008,FACULDADE DO INSTITUTO NACIONAL DE PÓS-GRADUAÇÃO DE SÃO JOSÉ DOS CAMPOS,FACULDADE INPG - SJC,Privada,N,N,N,Faculdade,3549904,São José dos Campos,SP,Ativa
+15581,Faculdade de Tecnologia de São José dos Campos - Jessen Vidal,FATECSJCAMPOS,Pública,N,N,N,Faculdade,3549904,São José dos Campos,SP,Ativa
+23096,FACULDADE SANTO ANTÔNIO - SJC,FSA,Privada,N,N,N,Faculdade,3549904,São José dos Campos,SP,Ativa
+22263,FACULDADE VANGUARDA,,Privada,N,N,N,Faculdade,3549904,São José dos Campos,SP,Ativa
+24066,Faculdade Cristã da Cidade,FCC,Privada,N,N,N,Faculdade,3549904,São José dos Campos,SP,Ativa
+2726,FACULDADE BILAC DE SÃO JOSÉ DOS CAMPOS,BILAC,Privada,N,N,N,Faculdade,3549904,São José dos Campos,SP,Ativa
+602,INSTITUTO TECNOLÓGICO DE AERONÁUTICA,ITA,Pública,N,N,N,Faculdade,3549904,São José dos Campos,SP,Ativa
+2625,CENTRO UNIVERSITÁRIO UFBRA,UFBRA,Privada,N,N,N,Centro Universitário,3549904,São José dos Campos,SP,Ativa
+5669,CENTRO UNIVERSITÁRIO ETEP,null,Privada,N,N,N,Centro Universitário,3549904,São José dos Campos,SP,Ativa
+1624,FACULDADE MARECHAL RONDON,FMR,Privada,N,N,N,Faculdade,3550100,São Manuel,SP,Ativa
+745,INSTITUTO MUNICIPAL DE ENSINO SUPERIOR DE SÃO MANUEL,IMESSM,Pública,N,N,N,Faculdade,3550100,São Manuel,SP,Ativa
+20328,FACULDADE DE ODONTOLOGIA DA APCD,FAOA,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+34,FACULDADE DE TECNOLOGIA DE SÃO PAULO,FATEC-SP,Pública,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+25656,INSTITUTO PLENITUDE EDUCAÇÃO,IPLENI,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+3770,FACULDADE TEOLÓGICA BATISTA DE SÃO PAULO,FTBSP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+466,UNIVERSIDADE ANHEMBI MORUMBI,UAM,Privada,N,N,N,Universidade,3550308,São Paulo,SP,Ativa
+21654,Faculdade de Engenharia e Agrimensura de São Paulo,FEASP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+374,CENTRO UNIVERSITÁRIO DAS FACULDADES METROPOLITANAS UNIDAS,FMU,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+4629,Faculdade Innovare,FACINN,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1743,FACULDADE DE TECNOLOGIA OSWALDO CRUZ,FATEC OSWALDO CRUZ,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+10385,INSTITUTO SÃO PAULO DE ESTUDOS SUPERIORES,ITESP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1828,ESCOLA DA CIDADE - FACULDADE DE ARQUITETURA E URBANISMO,ESCOLA DA CIDADE,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+20098,Faculdade Integração,FI,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+22028,Faculdade CTA,CTA,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+11807,Istituto Europeo di Design,IED SP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+25441,Faculdade Paulista de Bem Estar e Saúde,,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+18072,Faculdade de Direito TECH de São Paulo,FADITECH,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+793,Centro Universitário Estácio de São Paulo,ESTÁCIO SÃO PAULO,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+22084,Faculdade FACUMINAS de Pós-Graduação EAD,FACUMINAS EAD,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+11289,ESCOLA SUPERIOR NACIONAL DE SEGUROS DE SÃO PAULO,ESNS-SP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+22606,Faculdade Damásio,Damasio,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+17608,Faculdade de Educação Paulistana,FAEP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+24046,Faculdade da Associação Médica Paulista,APM,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1294,Centro Universitário das Américas,CAM,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+21670,Faculdade Promove de São Paulo,FPSP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+3837,FACULDADE EVOLUÇÃO,FAEV,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+370,FACULDADE PAULISTA DE ARTES,FPA,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+3896,Faculdade Paulista de Comunicação,FEPAC,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+19252,FACULDADE DE TECNOLOGIA ALPHA CHANNEL,FATAC,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1756,FACULDADE ASSOCIADA BRASIL,FAB,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+2556,FIAM-FAAM - CENTRO UNIVERSITÁRIO,UNIFIAM-FAAM,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+25988,FACULDADE PHYSIO CURSOS,FACPHYSIO,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+25392,Faculdade G8,FG8,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+162,CENTRO UNIVERSITÁRIO BELAS ARTES DE SÃO PAULO,FEBASP,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+25745,Faculdade Unida de São Paulo - EaD,FAUSP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+21573,Faculdade Ana Carolina Puga,FAPUGA,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+13466,GRUPO DE NUTRIÇÃO HUMANA,GANEP,Privada,N,N,N,Instituição Especialmente Credenciada para oferta de cursos lato sensu,3550308,São Paulo,SP,Ativa
+17942,Faculdade de Tecnologia do Tatuapé,FATEC-TT,Pública,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+456,CENTRO UNIVERSITÁRIO SANT´ANNA,UNISANT'ANNA,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+21940,Faculdade Phorte de Educação e Tecnologia,null,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+636,ESCOLA SUPERIOR DE PROPAGANDA E MARKETING,ESPM,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+23022,Faculdade Cetrus Sanar,CETRUS,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+12723,FACULDADE FINACI,FINACI,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+416,FACULDADE DE SÃO PAULO,FASP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+263,FACULDADES INTEGRADAS CAMPOS SALLES,FICS,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+2793,FACULDADE UBS,FACULDADE UBS,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+21485,Faculdade de Ensino Paschoal Dantas,FEPD,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1365,CENTRO UNIVERSITÁRIO ADVENTISTA DE SÃO PAULO,UNASP,Privada,S,S,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+3933,FACULDADE MÉTODO DE SÃO PAULO,FAMESP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1100,Centro Universitário Carlos Drummond de Andrade,UniDrummond,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+18165,Fundação Universidade Virtual do Estado de São Paulo,UNIVESP,Pública,N,N,N,Universidade,3550308,São Paulo,SP,Ativa
+852,FIAP - Centro Universitário,null,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+22605,Faculdade Alvorada de Saúde,,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1745,Faculdade Interativa de São Paulo,FAISP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+24326,FACULDADE ESSA EDUCACAO PROFISSIONAL,UNIESSA,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+4026,FACULDADE DE TECNOLOGIA ZONA LESTE,FATEC-ZL,Pública,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+319,UNIVERSIDADE BRASIL,UB,Privada,N,N,N,Universidade,3550308,São Paulo,SP,Ativa
+234,FACULDADES OSWALDO CRUZ,FOC,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+56,UNIVERSIDADE ESTADUAL PAULISTA JÚLIO DE MESQUITA FILHO,UNESP,Pública,N,N,N,Universidade,3550308,São Paulo,SP,Ativa
+1921,FACULDADE DE SÃO BENTO,FSB,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+21827,Instituto Friburgo de Ensino Superior,IFES,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+3051,FACULDADE TEOLÓGICA DE CIÊNCIAS HUMANAS E SOCIAIS LOGOS,FAETEL,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1526,Faculdade SENAI São Paulo,SENAI SP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+19823,Faculdade Porto União,FPU,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+316,UNIVERSIDADE NOVE DE JULHO,UNINOVE,Privada,N,N,N,Universidade,3550308,São Paulo,SP,Ativa
+2806,FACULDADE EVANGÉLICA DE SÃO PAULO,null,Privada,N,S,N,Faculdade,3550308,São Paulo,SP,Ativa
+25455,FACULDADE BELA VISTA,FBV,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+18019,Faculdade do Educador,FEDUC,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+17014,CENTRO SUPERIOR DE ESTUDOS JURÍDICOS CARLOS DRUMMOND DE ANDRADE,CSEJCDA,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+19879,Faculdade IPESSP,IPESSP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+21983,FACULDADE MORUMBI,FAMOR,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1476,"FACULDADE DE COMUNICAÇÃO E DESIGN ""OSWALDO CRUZ""",null,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+21952,FGV / Escola de Relações Internacionais,FGV/RI,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+213,CENTRO UNIVERSITÁRIO ÁLVARES PENTEADO,FECAP,Privada,S,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+17731,FACULDADE SESI-SP DE EDUCAÇÃO,FASESP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+21643,Faculdade Rudolf Steiner,FRS,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+15401,Faculdade FIPECAFI,FIPECAFI,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1964,"FACULDADE DE TECNOLOGIA EM HOTELARIA, GASTRONOMIA E TURISMO DE SÃO PAULO",HOTEC,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+23868,Link School of Business,LSB,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1311,TREVISAN ESCOLA SUPERIOR DE NEGÓCIOS,TREVISAN,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+24245,FACULDADE QUALITTAS - EAD,,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+17926,Faculdade de Ensino Superior Paschoal Dantas,,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+22098,FACULDADE ISMD,ISMD,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+2129,ESCOLA DE ECONOMIA DE SÃO PAULO,EESP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+221,UNIVERSIDADE CRUZEIRO DO SUL,UNICSUL,Privada,N,N,N,Universidade,3550308,São Paulo,SP,Ativa
+375,UNIVERSIDADE SANTO AMARO,UNISA,Privada,N,N,N,Universidade,3550308,São Paulo,SP,Ativa
+18620,FACULDADE DA CONSTRUÇÃO E DO TRABALHO,FACT,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+22866,Faculdade Associada Brasil - EAD,,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+22862,FranklinCovey Business School,FCBS,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+206,CENTRO UNIVERSITÁRIO ÍTALO-BRASILEIRO,UNIÍTALO,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+13845,Escola DIEESE de Ciências do Trabalho,DIEESE,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1752,FACULDADE AUTÔNOMA DE DIREITO,FADISP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+12661,FACULDADE DE TECNOLOGIA SAINT PAUL,null,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+21826,Faculdade Sebrae,null,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+373,ESCOLA DE SOCIOLOGIA E POLÍTICA DE SÃO PAULO,ESP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+2811,FACULDADE PAULUS DE TECNOLOGIA E COMUNICAÇÃO,FAPCOM,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+2465,FACULDADE IBMEC SÃO PAULO,IBMEC SP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+371,FACULDADE DE MÚSICA CARLOS GOMES,FMCG,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1810,"INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE SÃO PAULO",IFSP,Pública,N,N,N,"Instituto Federal de Educação, Ciência e Tecnologia",3550308,São Paulo,SP,Ativa
+434,FACULDADE SANTA MARCELINA,FASM,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+20476,Faculdade ANCLIVEPA,ANCLIVEPA,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+10323,FACULDADE DE TECNOLOGIA BANDEIRANTES,BANDTEC,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1161,INSPER INSTITUTO DE ENSINO E PESQUISA,null,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+19352,Faculdade Paulista de Gestão e Saúde,,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+461,CENTRO UNIVERSITÁRIO ARMANDO ALVARES PENTEADO,FA-FAAP,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+23139,BRAIN BUSINESS SCHOOL,BRAIN,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1520,FACULDADE FIA DE ADMINISTRAÇÃO E NEGÓCIOS,FFIA,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+25791,Faculdade Brasileira Digital,FABRADI,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+161,CENTRO UNIVERSITÁRIO ASSUNÇÃO,UNIFAI,Privada,N,S,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+22814,Faculdade Auden Educacional,FAED,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+322,UNIVERSIDADE PAULISTA,UNIP,Privada,N,N,N,Universidade,3550308,São Paulo,SP,Ativa
+3746,FACULDADE IBRA DA GRANDE SÃO PAULO,FACULDADE FAGRAN,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+17269,INSTITUTO DE EDUCAÇÃO SUPERIOR E INOVAÇÃO PERSONA,null,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1192,FACULDADE DE CIÊNCIAS DA SAÚDE DE SÃO PAULO,FACIS,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+4731,FACULDADE MESSIANICA,null,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+591,UNIVERSIDADE FEDERAL DE SÃO PAULO,UNIFESP,Pública,N,N,N,Universidade,3550308,São Paulo,SP,Ativa
+24843,INSTITUTO DE ASSISTÊNCIA MÉDICA AO SERVIDOR PÚBLICO ESTADUAL,IAMSPE,Pública,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+19501,Faculdade de Tecnologia Sebrae,FATEC SEBRAE,Pública,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+5217,FACULDADES INTEGRADAS PAULISTA,FIP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+4681,FACULDADE CENTRO PAULISTANO,null,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+417,UNIVERSIDADE CIDADE DE SÃO PAULO,UNICID,Privada,N,N,N,Universidade,3550308,São Paulo,SP,Ativa
+14879,FACULDADE DOURADO,FD,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+23409,FACULDADE CENTRO SÃO PAULO,FACESP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+200,FACULDADE CÁSPER LÍBERO,FCL,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1946,FACULDADE LEGALE,LEGALE,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+23147,Faculdade do Comércio de São Paulo,FAC-SP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+24356,Faculdade Virtual do Brasil,FVB,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+4104,ESCOLA SUPERIOR DE ENGENHARIA E GESTÃO DE SÃO PAULO - ESEG,ESEG,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+25716,IPD INSTITUTO DE PROFISSIONALIZAÇÃO DIGITAL,IPD,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+12611,FACULDADE DE MÚSICA SOUZA LIMA,FMSL,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+362,FACULDADE PAULISTA DE SERVIÇO SOCIAL,FAPSS-SP.,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+4995,Faculdade Educamais,EDUCA+,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+5048,FACULDADE DE TEOLOGIA DE SÃO PAULO DA IGREJA PRESBITERIANA INDEPENDENTE DO BRASIL,null,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+22603,FACULDADE ANCLIVEPA DE GESTÃO E HUMANOLOGIA,FAGH,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+16864,Faculdade Cultura Inglesa,FCI,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+737,CENTRO UNIVERSITÁRIO SÃO CAMILO,SAO CAMILO,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+23118,IBPTECH FACULDADE DE CIÊNCIAS FORENSES E TECNOLOGIA,,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+24864,INSTITUTO DE EDUCAÇÃO SUPERIOR E INOVAÇÃO INVENIO,INVENIO,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+20340,FACULDADE PAULISTA DE CIÊNCIAS DA SAÚDE,FPCS,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+16934,Faculdade Méliès,MÉLIÈS,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1742,Centro Universitário de Tecnologia Carlos Drummond de Andrade,null,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+1762,Centro Universitário de Tecnologia e Negócios Carlos Drummond de Andrade,UniTen CDA,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+376,CENTRO UNIVERSITÁRIO ANHANGUERA DE SÃO PAULO,,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+20497,FACULDADE ROBERTO MIRANDA,FRM SP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+3985,CENTRO UNIVERSITÁRIO SENAC,SENACSP,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+360,CENTRO UNIVERSITÁRIO PAULISTANO,UNIPAULISTANA,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+17672,"Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de São Paulo",IDP-SP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+25467,Faculdade Alura.Tech,Alura.Tech,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+18711,FACULDADE INOVA MAIS DE SÃO PAULO,FIMSP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1385,FACULDADES INTEGRADAS IPEP,FIPEP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1388,CENTRO UNIVERSITÁRIO SUMARÉ,null,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+2128,Escola de Direito de São Paulo - FGV DIREITO SP,FGV DIREITO SP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+363,FACULDADE MOZARTEUM DE SÃO PAULO,FAMOSP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+458,UNIVERSIDADE IBIRAPUERA,UNIB,Privada,N,N,N,Universidade,3550308,São Paulo,SP,Ativa
+22,UNIVERSIDADE PRESBITERIANA MACKENZIE,MACKENZIE,Privada,S,S,N,Universidade,3550308,São Paulo,SP,Ativa
+24300,Faculdade Unida de São Paulo - EAD,FAUSP - EAD,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+2744,INSTITUTO SUPERIOR DE EDUCAÇÃO VERA CRUZ,ISE VERA CRUZ,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+21764,Faculdade de Ciências da Saúde IGESP,,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1853,Centro Universitário UNIBTA,null,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+21509,Instituto de Ensino e Pesquisa do Hospital Sírio-Libanês,IEP/HSL,Privada,N,N,N,Instituição Especialmente Credenciada para oferta de cursos lato sensu,3550308,São Paulo,SP,Ativa
+13488,FACULDADE SEQÜENCIAL,null,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+24709,Instituto Racine de Educação Superior,Racine,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+5387,FACULDADE IMPACTA,IMPACTA,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+790,Faculdade Israelita de Ciências da Saúde Albert Einstein,FICSAE,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+4492,FACULDADE PASCHOAL DANTAS,FPD,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1930,INSTITUTO SUPERIOR DE EDUCAÇÃO DE SÃO PAULO,SINGULARIDADES/ISESP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+2886,FACULDADE ZUMBI DOS PALMARES,FAZP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+23291,Escola de Educação Permanente,EEP,Pública,N,N,N,Escola de Governo,3550308,São Paulo,SP,Ativa
+1290,Faculdade Álvares de Azevedo,FAATESP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1295,FACULDADE DE EDUCAÇÃO E TECNOLOGIA IRACEMA,null,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1838,FACULDADES INTEGRADAS RIO BRANCO,FRB,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+15746,Faculdade de Tecnologia do Ipiranga,FATECIPI,Pública,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+203,UNIVERSIDADE SÃO JUDAS TADEU,USJT,Privada,N,N,N,Universidade,3550308,São Paulo,SP,Ativa
+23123,Faculdade Americas International College,FAMG,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+17355,Faculdade de Educação em Ciências da Saúde,FECS,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+24168,Faculdade Unida de São Paulo,FAUSP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+12817,FACULDADE IMESP MONITOR,IMESP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+546,PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO,PUCSP,Privada,S,S,N,Universidade,3550308,São Paulo,SP,Ativa
+415,FACULDADE DE CIÊNCIAS MÉDICAS DA SANTA CASA SÃO PAULO,FCMSCSP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+17977,Faculdade de Tecnologia de Itaquera,FATEC ITAQUERA,Pública,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+905,FACULDADE ESCOLA PAULISTA DE DIREITO,FACEPD,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+151,ESCOLA DE ADMINISTRAÇÃO DE EMPRESAS DE SÃO PAULO - FGV EAESP,FGV-EAESP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+254,CENTRO UNIVERSITÁRIO UNI-BAN,UNI-BAN,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+21431,Faculdade IBECO,IBECO,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1048,FACULDADE CAMPOS ELÍSEOS,FCE,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+23352,Instituto Professor Flávio Vellini,null,Privada,N,N,N,Instituição Especialmente Credenciada para oferta de cursos lato sensu,3550308,São Paulo,SP,Ativa
+22985,Faculdade Trilógica Nossa Senhora de Todos os Povos,FATRI EAD,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+898,Centro Universitário Unisan,UNISAN,Privada,N,N,N,Centro Universitário,3550308,São Paulo,SP,Ativa
+18035,Escola Brasileira de Medicina Chinesa,EBRAMEC,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+457,UNIVERSIDADE ANHANGUERA DE SÃO PAULO,UNIAN - SP,Privada,N,N,N,Universidade,3550308,São Paulo,SP,Ativa
+16948,Faculdade 28 de Agosto de Ensino e Pesquisa,28 de Agosto,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+4357,FACULDADE QUALITTAS,QUALITTAS,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+55,UNIVERSIDADE DE SÃO PAULO,USP,Pública,N,N,N,Universidade,3550308,São Paulo,SP,Ativa
+4829,ESCOLA SUPERIOR DE ARTES CÉLIA HELENA,null,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+15688,FACULDADE DE TECONOLOGIA DA ZONA SUL,FATEC ZONASUL,Pública,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+22177,Faculdade União Paulistana,FAUP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+24884,Faculdade Internacional de São Paulo,FINSP,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+25440,Faculdade Opus 365,,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+24365,Faculdade Paschoal Dantas EAD,FPD - EAD,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1190,FACULDADE INTEGRAL CANTAREIRA,F.I.C.,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+22651,Instituto de Tecnologia e Liderança,Inteli,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+1541,FACULDADE FLAMINGO,null,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+23912,FACULDADE SINPAIN,SINPAIN,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+23333,Faculdade Damásio Educacional,FDE,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+4211,Faculdade ESAMC São Paulo - ESAMC,ESAMC,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+24507,Escola de Ensino Superior da Fipe,FipeEES,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+20586,Faculdade Van Gogh,FVG,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+18066,Faculdade de Ciências e Tecnologia Paschoal Dantas,,Privada,N,N,N,Faculdade,3550308,São Paulo,SP,Ativa
+3186,FACULDADE DE SÃO ROQUE,FASAR,Privada,N,N,N,Faculdade,3550605,São Roque,SP,Ativa
+923,CENTRO UNIVERSITÁRIO SÃO ROQUE,UNISÃO ROQUE,Privada,N,N,N,Centro Universitário,3550605,São Roque,SP,Ativa
+18817,Faculdade de Tecnologia de São Roque,FATEC-SR,Pública,N,N,N,Faculdade,3550605,São Roque,SP,Ativa
+2814,FACULDADE SÃO SEBASTIÃO,null,Privada,N,N,N,Faculdade,3550704,São Sebastião,SP,Ativa
+15793,Faculdade de Tecnologia de São Sebastião,Fatec SS,Pública,N,N,N,Faculdade,3550704,São Sebastião,SP,Ativa
+1690,FACULDADE DE SÃO VICENTE,FSV,Privada,N,N,N,Faculdade,3551009,São Vicente,SP,Ativa
+1713,FACULDADE DE TECNOLOGIA DE SÃO VICENTE,FATEF,Privada,N,N,N,Faculdade,3551009,São Vicente,SP,Ativa
+1532,FACULDADE DE SERTÃOZINHO,null,Privada,N,N,N,Faculdade,3551702,Sertãozinho,SP,Ativa
+1456,FACULDADE ANHANGUERA DE SERTÃOZINHO,FASERT,Privada,N,N,N,Faculdade,3551702,Sertãozinho,SP,Ativa
+15696,Faculdade de Tecnologia de Sertãozinho,FATEC SERTÃOZINHO,Pública,N,N,N,Faculdade,3551702,Sertãozinho,SP,Ativa
+1725,FACULDADE XV DE AGOSTO,FAQ,Privada,N,N,N,Faculdade,3552106,Socorro,SP,Ativa
+33,FACULDADE DE TECNOLOGIA DE SOROCABA,FATEC SO,Pública,N,N,N,Faculdade,3552205,Sorocaba,SP,Ativa
+368,FACULDADE DE EDUCAÇÃO FÍSICA DA ASSOCIAÇÃO CRISTÃ DE MOÇOS DE SOROCABA,FEFISO,Privada,N,N,N,Faculdade,3552205,Sorocaba,SP,Ativa
+12923,FACULDADE DE TECNOLOGIA IPANEMA,,Privada,N,N,N,Faculdade,3552205,Sorocaba,SP,Ativa
+150,UNIVERSIDADE DE SOROCABA,UNISO,Privada,S,N,N,Universidade,3552205,Sorocaba,SP,Ativa
+672,CENTRO UNIVERSITÁRIO FACENS,UniFACENS,Privada,N,N,N,Centro Universitário,3552205,Sorocaba,SP,Ativa
+276,FACULDADE DE DIREITO DE SOROCABA,FADI,Privada,N,N,N,Faculdade,3552205,Sorocaba,SP,Ativa
+17691,FACULDADE DE TECNOLOGIA SENAI GASPAR RICARDO JUNIOR,,Privada,N,N,N,Faculdade,3552205,Sorocaba,SP,Ativa
+2399,FACULDADE DE SOROCABA,,Privada,N,N,N,Faculdade,3552205,Sorocaba,SP,Ativa
+22769,Gaia,Gaia,Privada,N,N,N,Faculdade,3552205,Sorocaba,SP,Ativa
+4655,FACULDADE ANHANGÜERA DE SOROCABA,FSO,Privada,N,N,N,Faculdade,3552205,Sorocaba,SP,Ativa
+1561,FACULDADE ESAMC SOROCABA,ESAMC,Privada,N,N,N,Faculdade,3552205,Sorocaba,SP,Ativa
+17598,FACULDADE PROF. WLADEMIR DOS SANTOS,WLASAN,Privada,N,N,N,Faculdade,3552205,Sorocaba,SP,Ativa
+11586,FACULDADES NETWORK - CAMPUS SUMARÉ,null,Privada,N,N,N,Faculdade,3552403,Sumaré,SP,Ativa
+11308,FACULDADE ANHANGUERA DE SUMARÉ,FACSUMARÉ,Privada,N,N,N,Faculdade,3552403,Sumaré,SP,Ativa
+23867,Faculdade de Tecnologia de Sumaré,Fatec de Sumaré,Pública,N,N,N,Faculdade,3552403,Sumaré,SP,Ativa
+14715,Centro Universitário Piaget,UniPiaget,Privada,N,N,N,Centro Universitário,3552502,Suzano,SP,Ativa
+1313,FACULDADE DE SUZANO,UNISUZ,Privada,N,N,N,Faculdade,3552502,Suzano,SP,Ativa
+17854,Centro Universitário Unifecaf,null,Privada,N,N,N,Faculdade,3552809,Taboão da Serra,SP,Ativa
+1499,FACULDADE ANHANGUERA DE TABOÃO DA SERRA,FATS,Privada,N,N,N,Faculdade,3552809,Taboão da Serra,SP,Ativa
+19210,Faculdades Integradas de Taguaí,FIT,Privada,N,N,N,Faculdade,3553005,Taguaí,SP,Ativa
+2009,FACULDADE DE TAQUARITINGA,FTGA,Privada,N,N,N,Faculdade,3553708,Taquaritinga,SP,Ativa
+1300,INSTITUTO TAQUARITINGUENSE DE ENSINO SUPERIOR DR. ARISTIDES DE CARVALHO SCHLOBACH,ITES,Privada,N,N,N,Faculdade,3553708,Taquaritinga,SP,Ativa
+967,FACULDADE DE TECNOLOGIA DE TAQUARITINGA,FATEC/TQ,Pública,N,N,N,Faculdade,3553708,Taquaritinga,SP,Ativa
+15803,FACULDADE DE TECNOLOGIA DE TATUÍ - PROF. WILSON ROBERTO RIBEIRO DE CAMARGO,FATEC TATUÍ,Pública,N,N,N,Faculdade,3554003,Tatuí,SP,Ativa
+3940,FACULDADE DE ENSINO SUPERIOR SANTA BARBARA,FAESB,Privada,N,N,N,Faculdade,3554003,Tatuí,SP,Ativa
+665,UNIVERSIDADE DE TAUBATÉ,UNITAU,Pública,N,N,N,Universidade,3554102,Taubaté,SP,Ativa
+4814,FACULDADE DE TECNOLOGIA SENAI FELIX GUISARD,null,Privada,N,N,N,Faculdade,3554102,Taubaté,SP,Ativa
+4141,FACULDADE ANHANGUERA DE TAUBATÉ,null,Privada,N,N,N,Faculdade,3554102,Taubaté,SP,Ativa
+4873,FACULDADE IBRA DE TAUBATÉ,FACULDADE FITAU,Privada,N,N,N,Faculdade,3554102,Taubaté,SP,Ativa
+1276,INSTITUTO TAUBATÉ DE ENSINO SUPERIOR,I.T.E.S.,Privada,N,N,N,Faculdade,3554102,Taubaté,SP,Ativa
+18049,Faculdade de Tecnologia de Taubaté,FATEC TAUBATÉ,Pública,N,N,N,Faculdade,3554102,Taubaté,SP,Ativa
+21416,Centro de Instrução de Aviação do Exército,CIAvEx,Pública,N,N,N,Faculdade,3554102,Taubaté,SP,Ativa
+1857,FACULDADE DEHONIANA,DEHONIANA,Privada,N,N,N,Faculdade,3554102,Taubaté,SP,Ativa
+18033,FACULDADE DE TEODORO SAMPAIO,FTS,Privada,N,N,N,Faculdade,3554300,Teodoro Sampaio,SP,Ativa
+4293,FACULDADE DE TIETÊ,null,Privada,N,N,N,Faculdade,3554508,Tietê,SP,Ativa
+270,FACULDADE DE TUPÃ,null,Privada,N,N,N,Faculdade,3555000,Tupã,SP,Ativa
+2056,FACULDADE DA ALTA PAULISTA,FAP,Privada,N,N,N,Faculdade,3555000,Tupã,SP,Ativa
+269,FACULDADE FACCAT,FACCAT,Privada,N,N,N,Faculdade,3555000,Tupã,SP,Ativa
+2205,Faculdade REGES de Tupi Paulista,null,Privada,N,N,N,Faculdade,3555109,Tupi Paulista,SP,Ativa
+3612,FACULDADE ANHANGUERA DE VALINHOS,null,Privada,N,N,N,Faculdade,3556206,Valinhos,SP,Ativa
+21344,FACULDADE UNICPO,FACULDADE UNICPO,Privada,N,N,N,Faculdade,3557006,Votorantim,SP,Ativa
+11750,FACULDADE ANHANGUERA PITÁGORAS VOTORANTIM,-,Privada,N,N,N,Faculdade,3557006,Votorantim,SP,Ativa
+23181,FACULDADE INTERCONTINENTAL,FAICON,Privada,N,N,N,Faculdade,3557006,Votorantim,SP,Ativa
+22625,FACULDADE BOOKPLAY,null,Privada,N,N,N,Faculdade,3557105,Votuporanga,SP,Ativa
+4597,FACULDADE FUTURA,null,Privada,N,N,N,Faculdade,3557105,Votuporanga,SP,Ativa
+25907,CENAC - Centro de Ensino Nacional,,Privada,N,N,N,Faculdade,3557105,Votuporanga,SP,Ativa
+14194,FATEC - FACULDADE DE TEOLOGIA E CIÊNCIAS DE VOTUPORANGA,FATEC,Privada,N,N,N,Faculdade,3557105,Votuporanga,SP,Ativa
+222,CENTRO UNIVERSITÁRIO DE VOTUPORANGA,UNIFEV,Privada,S,N,N,Centro Universitário,3557105,Votuporanga,SP,Ativa
